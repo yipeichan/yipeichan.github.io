@@ -2,6 +2,6 @@ title: YI-PEI CHAN
 logo: /assets/img/logo.png
 description: <b><i>A blog for sharing YI-PEI's projects</i></b> 
 show_downloads: true
-google_analytics: true
+google_analytics: UA-123794012-1
 theme: jekyll-theme-minimal
 
