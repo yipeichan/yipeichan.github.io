@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# <font size="14">Pricing program for Whole-life Insurance with Annuity</font>
+# <font size="8">Pricing program for Whole-life Insurance with Annuity</font>
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -107,7 +107,7 @@ end
 <dt>Name</dt>
 <dd>Godzilla</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1994</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
