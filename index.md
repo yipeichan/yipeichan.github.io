@@ -14,7 +14,6 @@ This is a pricing program for an insurance contract whose premiums are payable a
 <br>
 * * *
 <br>
-<br>
 <div class="d"><i>Feb 28, 2018</i></div>
 # [_Web Scraping Insurance Products_](./another-page.html)   
 <div class="d"></div>
