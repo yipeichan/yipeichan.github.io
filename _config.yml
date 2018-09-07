@@ -1,6 +1,7 @@
 title: YI-PEI CHAN
 logo: /assets/img/logo.png
-description: <b><i>A blog for sharing YI-PEI's projects</i></b> 
+description: <p><b><i>A blog for sharing YI-PEI's projects</i></b></p>
+<p><b></i>An actuary specializes in life insurance, with Bachelor's Degree in Economics and Biological Statistics Program from National Taiwan University</i></b></p> 
 show_downloads: true
 google_analytics: UA-123794012-1
 theme: jekyll-theme-minimal
