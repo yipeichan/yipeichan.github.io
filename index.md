@@ -9,11 +9,15 @@ layout: default
 <div class="d"></div>
 This is a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
 
+
 * * *
+
+
 <div class="d"><i>Feb 28, 2018</i></div>
-# [_Web Scraping Insurance Products ](./another-page.html)   
+# [_Web Scraping Insurance Products_](./another-page.html)   
 <div class="d"></div>
 This is program can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.
+
 
 * * *
 Text can be **bold**, _italic_, or ~~strikethrough~~.
