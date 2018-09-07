@@ -3,8 +3,10 @@ layout: default
 ---
 ## A blog for sharing YI-PEI's projects
 
-# [_Pricing program for Whole-life Insurance with Annuity_](./another-page.html)
-This is a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides whole-life Death/ Total Permanent Disability coverage, annuity benefit and an endowment when the policyholder reaches age 105.
+<FONT COLOR="grey">_Mar 2, 2018_</FONT>
+# [Pricing program for Whole-life Insurance](./another-page.html)
+\vspace{-8pt}
+A pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
