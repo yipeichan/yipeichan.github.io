@@ -3,9 +3,9 @@ layout: default
 ---
 ## A blog for sharing YI-PEI's projects
 
-<FONT COLOR="grey">_Mar 2, 2018_</FONT>
+ _Mar 2, 2018_
 # [Pricing program for Whole-life Insurance](./another-page.html)
-\vspace{-8pt}
+\vspace{-8pt} 
 A pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
