@@ -2,12 +2,13 @@
 layout: default
 ---
 ## A blog for sharing YI-PEI's projects
-
-
+<br>
+<br>
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
 <div class="d"></div>
 This is a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
+<br>
 <br>
 <br>
 * * *
@@ -19,7 +20,9 @@ This is a pricing program for an insurance contract whose premiums are payable a
 This is program can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.
 <br>
 <br>
+<br>
 * * *
+<br>
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
