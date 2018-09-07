@@ -5,7 +5,6 @@ layout: default
 
 
 ## _Mar 2, 2018_
-* * *
 # [Pricing program for Whole-life Insurance](./another-page.html)
 A pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.</dd>
 
