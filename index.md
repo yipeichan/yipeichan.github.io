@@ -6,7 +6,8 @@ layout: default
 
 <div class="d"><i>Mar 2, 2018</i></div>
 # [Pricing program for Whole-life Insurance](./another-page.html)   
-<div class="d">A pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.</div>
+<div class="d"></div>
+A pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
