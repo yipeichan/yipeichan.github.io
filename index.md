@@ -4,7 +4,7 @@ layout: default
 ## A blog for sharing YI-PEI's projects
 <br>
 <br>
-<div class="d"><i>Mar 2, 2018</i></div>
+<div class="d"><i>July 5, 2018</i></div>
 # [_Statistical Learning_](./another-page.html)   
 <div class="d"></div>
 This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course.
