@@ -5,10 +5,19 @@ layout: default
 <br>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
+# [Statistical Learning](./another-page.html)   
+<div class="d"></div>
+This article shares learning notes of the Statistical Learning Course
+<br>
+<br>
+<br>
+<br>
+* * *
+<br>
+<div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
 <div class="d"></div>
-This is a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
-<br>
+This article explains a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
 <br>
 <br>
 <br>
@@ -17,7 +26,7 @@ This is a pricing program for an insurance contract whose premiums are payable a
 <div class="d"><i>Feb 28, 2018</i></div>
 # [_Web Scraping Insurance Products_](./another-page.html)   
 <div class="d"></div>
-This is program can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.
+This article explains a program that can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.
 <br>
 <br>
 <br>
