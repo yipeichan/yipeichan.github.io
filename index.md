@@ -5,9 +5,9 @@ layout: default
 <br>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
-# [Statistical Learning](./another-page.html)   
+# [_Statistical Learning_](./another-page.html)   
 <div class="d"></div>
-This article shares learning notes of the Statistical Learning Course
+This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course.
 <br>
 <br>
 <br>
