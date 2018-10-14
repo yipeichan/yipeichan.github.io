@@ -25,7 +25,7 @@ This article shares an option pricing program with Monte Carlo Simulation method
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
 <div class="d"></div>
-This article shares a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
+This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
 <br>
 <br>
 <br>
