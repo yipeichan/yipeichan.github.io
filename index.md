@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="c"><p><font color="blue"><b><i>A blog for sharing YI-PEI's projects<p><font color="blue"></i></b></font></p></div>
+<p><font color="#0086b3"><b><i>A blog for sharing YI-PEI's projects<p><font color="blue"></i></b></font></p>
 <br>
 <br>
 <div class="d"><i>July 5, 2018</i></div>
