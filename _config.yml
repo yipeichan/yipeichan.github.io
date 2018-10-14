@@ -1,6 +1,6 @@
-title: <font face="cursive"><i>YI-PEI CHAN</i></font>
+title: 
 logo: /assets/img/logo.png
-description: <b><i>Welcome to YI-PEI's home page </i></b></br></br><b><i>YI-PEI CHAN is an actuary specializes in life insurance. She earned her Bachelor's Degree in Economics and Biological Statistics Program from National Taiwan University. She is enthusiastic about math, programming, entrepreneurship and civic engagement.</i></b> 
+description: <font color="#a9cba3"><font face="cursive"><b><i>Welcome to YI-PEI's home page </i></b></font></font></br></br><b><i>YI-PEI CHAN is an actuary specializes in life insurance. She earned her Bachelor's Degree in Economics and Biological Statistics Program from National Taiwan University. She is enthusiastic about math, programming, entrepreneurship and civic engagement.</i></b> 
 show_downloads: false
 google_analytics: UA-123794012-1
 theme: jekyll-theme-minimal
