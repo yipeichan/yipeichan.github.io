@@ -14,6 +14,15 @@ This article shares code scripts and learning notes of the Statistical Learning 
 * * *
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
+# [_Option-Pricing_](./another-page.html)   
+<div class="d"></div>
+This article shares an option pricing program with Monte Carlo Simulation method and binomial tree framework.<br>
+<br>
+<br>
+<br>
+* * *
+<br>
+<div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
 <div class="d"></div>
 This article shares a pricing program for an insurance contract whose premiums are payable annually throught out 20 years and provides endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
