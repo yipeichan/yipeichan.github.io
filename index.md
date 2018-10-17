@@ -41,7 +41,7 @@ This article shares a program that can be run weekly to generate lists to track 
 <br>
 * * *
 <br>
-<div class="d"><i>Feb 28, 2018</i></div>
+<div class="d"><i>Jul 2, 2016</i></div>
 # [_Oil Price and Consumption Expenditure_](./another-page.html)   
 <div class="d"></div>
 This article shares the code script and the thesis I wrote in 2016, discussing the relationship between oil price and consumption expenditure.
@@ -50,6 +50,8 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <br>
 <br>
+* * *
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
