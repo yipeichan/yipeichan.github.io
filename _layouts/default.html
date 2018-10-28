@@ -29,7 +29,7 @@ div.d {
 </style>
   </head>
   <body>
-    background-color: #ffefe6;
+    <style>background-color: #ffefe6;
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default:site.github.repository_name}}</a></h1>
@@ -78,5 +78,6 @@ div.d {
       ga('send', 'pageview');
     </script>
     {% endif %}
+  </style>
   </body>
 </html>
