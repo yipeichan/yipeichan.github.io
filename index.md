@@ -53,4 +53,4 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 * * *
 
 
-<small>Hosted on GitHub &mdash; Theme based on <a href="https://github.com/orderedlist">orderedlist</a></small>
+<small>Hosted on GitHub &mdash; Theme modified from <a href="https://github.com/orderedlist">orderedlist</a></small>
