@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<font color="#a9cba3"><font face="cursive"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></font><br>
+<div class="d"><font color="#a9cba3"><font face="cursive"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></font></div><br>
 <br>
 <div class="d"><i>July 5, 2018</i></div>
 # [_Statistical Learning_](./another-page.html)   
