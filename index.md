@@ -51,6 +51,6 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <br>
 * * *
-<h2 class="fontsforweb_chancur">test</h2>
+<div class="d">test</div>
 
 <small>Hosted on GitHub &mdash; Theme modified from <a href="https://github.com/orderedlist">orderedlist</a></small>
