@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="d"><div class="e"><font color="#a9cba3"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
+<div class="d"><div class="e"><font color="#a9cba3", font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></div></div>
 <br>
 <div class="d"><i>July 5, 2018</i></div>
 # [_Statistical Learning_](./statisticalLearning.html)   
@@ -20,8 +20,8 @@ This article shares an option pricing program with Monte Carlo Simulation method
 <br>
 <br>
 <br>
-<hr>
 <br>
+<hr>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
