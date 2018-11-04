@@ -11,7 +11,9 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <br>
 <br>
 <br>
-* * *
+<svg height="310" width="900">
+  <line x1="50" y1="50" x2="750" y2="50" style="stroke:rgbrgb(133, 192, 255);stroke-width:2.5" />
+</svg>
 <br>
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./another-page.html)   
