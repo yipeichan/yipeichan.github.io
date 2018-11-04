@@ -20,12 +20,14 @@ This article shares an option pricing program with Monte Carlo Simulation method
 <br>
 <br>
 <br>
+<br>
 <hr>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
 <div class="d"></div>
 This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
+<br>
 <br>
 <br>
 <br>
@@ -45,7 +47,6 @@ This article shares a program that can be run weekly to generate lists to track 
 # [_Oil Price and Consumption Expenditure_](./another-page.html)   
 <div class="d"></div>
 This article shares the code script and the thesis I wrote in 2016, discussing the relationship between oil price and consumption expenditure.
-<br>
 <br>
 <br>
 <br>
