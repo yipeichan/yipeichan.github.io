@@ -11,9 +11,8 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <br>
 <br>
 <br>
-test
 <svg height="20" width="800">
-  <line x1="30" y1="10" x2="750" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:2" />
+  <line x1="20" y1="10" x2="500" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 test
 <br>
