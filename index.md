@@ -11,8 +11,8 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <br>
 <br>
 <br>
-<svg height="20" width="600">
-  <line x1="0" y1="10" x2="500" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
+<svg height="20" width="400">
+  <line x1="0" y1="10" x2="400" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 <br>
 <div class="d"><i>May 25, 2018</i></div>
@@ -22,8 +22,8 @@ This article shares an option pricing program with Monte Carlo Simulation method
 <br>
 <br>
 <br>
-<svg height="20" width="600">
-  <line x1="0" y1="10" x2="500" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
+<svg height="20" width="400">
+  <line x1="0" y1="10" x2="400" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
@@ -33,8 +33,8 @@ This article shares a pricing program for an insurance contract whose premiums a
 <br>
 <br>
 <br>
-<svg height="20" width="600">
-  <line x1="0" y1="10" x2="500" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
+<svg height="20" width="400">
+  <line x1="0" y1="10" x2="400" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 <br>
 <div class="d"><i>Feb 28, 2018</i></div>
@@ -45,8 +45,8 @@ This article shares a program that can be run weekly to generate lists to track 
 <br>
 <br>
 <br>
-<svg height="20" width="600">
-  <line x1="0" y1="10" x2="500" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
+<svg height="20" width="400">
+  <line x1="0" y1="10" x2="400" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 <br>
 <div class="d"><i>Jul 2, 2016</i></div>
@@ -58,8 +58,8 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <br>
 <br>
-<svg height="20" width="600">
-  <line x1="0" y1="10" x2="500" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
+<svg height="20" width="400">
+  <line x1="0" y1="10" x2="400" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 <br>
 Hosted on GitHub &mdash; Theme modified from <a href="https://github.com/orderedlist">orderedlist</a>
