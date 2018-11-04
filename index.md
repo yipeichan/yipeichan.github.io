@@ -20,8 +20,8 @@ This article shares an option pricing program with Monte Carlo Simulation method
 <br>
 <br>
 <br>
-<br>
 <hr>
+<br>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
