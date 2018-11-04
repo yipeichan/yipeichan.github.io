@@ -11,9 +11,7 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <br>
 <br>
 <br>
-<svg height="20" width="370">
-  <line x1="0" y1="10" x2="370" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
-</svg>
+<hr>
 <br>
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./another-page.html)   
@@ -58,15 +56,10 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <br>
 <br>
-<svg height="20" width="370">
+<svg height="20" width="auto">
   <line x1="0" y1="10" x2="370" y2="10" style="stroke:rgb(179, 179, 179);stroke-width:1.5" />
 </svg>
 <br>
 Hosted on GitHub &mdash; Theme modified from <a href="https://github.com/orderedlist">orderedlist</a>
 <br>
 © YI-PEI CHAN
-hr {
-width: 300px;
-margin-left: auto;
-margin-right: auto;
-}
