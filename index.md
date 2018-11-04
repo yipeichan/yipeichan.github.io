@@ -16,17 +16,17 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./another-page.html)   
 <div class="d"></div>
-This article shares an option pricing program with Monte Carlo Simulation method and binomial tree framework.<br>
+This article shares an option pricing program with Monte Carlo Simulation method and binomial tree framework.
 <br>
 <br>
 <br>
 <br>
-<b><hr></b>
+<hr>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Pricing Whole-life Insurance_](./another-page.html)   
 <div class="d"></div>
-This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
+This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.
 <br>
 <br>
 <br>
@@ -41,7 +41,7 @@ This article shares a program that can be run weekly to generate lists to track 
 <br>
 <br>
 <br>
-<b><hr></b>
+<hr>
 <br>
 <div class="d"><i>Jul 2, 2016</i></div>
 # [_Oil Price and Consumption Expenditure_](./another-page.html)   
