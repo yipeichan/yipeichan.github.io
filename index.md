@@ -4,7 +4,7 @@ layout: default
 <div class="d"><font color="#a9cba3"><font face="cursive"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></font></div>
 <br>
 <div class="d"><i>July 5, 2018</i></div>
-# [_Statistical Learning_](./another-page.html)   
+# [_Statistical Learning_](./statisticalLearning.html)   
 <div class="d"></div>
 This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course.
 <br>
