@@ -12,7 +12,7 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <br>
 <br>
 test
-<svg height="100" width="800">
+<svg height="300" width="700">
   <line x1="30" y1="50" x2="650" y2="50" style="stroke:rgbrgb(179, 179, 179);stroke-width:2" />
 </svg>
 test
