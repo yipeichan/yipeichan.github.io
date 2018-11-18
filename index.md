@@ -14,7 +14,7 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <hr>
 <br>
 <div class="d"><i>May 25, 2018</i></div>
-# [_Option Pricing_](./another-page.html)   
+# [_Option Pricing_](./optionpricing.html)   
 <div class="d"></div>
 This article shares an option pricing program with Monte Carlo Simulation method and binomial tree framework.<br>
 <br>
