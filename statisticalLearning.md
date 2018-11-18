@@ -6,8 +6,6 @@ layout: default
 # [_Statistical Learning_](./index.html)
 <i>July 5, 2018</i>
 
-[See complete code on Github](./https://github.com/yipeichan/Statistical-Learning)
-
 <a href="https://github.com/yipeichan/Statistical-Learning">See complete code on Github</a>
 
 ## Met Statistical Learning for the first time 
