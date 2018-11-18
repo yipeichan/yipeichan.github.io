@@ -6,4 +6,4 @@ layout: default
 # [_Option Pricing_](./index.html)
 <i>May 25, 2018</i>
 
-[See complete code on Github](./https://github.com/yipeichan/Lookback-Option-Pricing.html)
+<a href="https://github.com/yipeichan/Lookback-Option-Pricing">See complete code on Github</a>
