@@ -8,6 +8,8 @@ layout: default
 
 [See complete code on Github](./https://github.com/yipeichan/Statistical-Learning)
 
+<a href="https://github.com/yipeichan/Statistical-Learning">See complete code on Github</a>
+
 ## Met Statistical Learning for the first time 
 
 I came across the term "Statistical Learning" in 2017 when ; before then I did hear about applications as well as numerous 
