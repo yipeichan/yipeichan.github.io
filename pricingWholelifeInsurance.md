@@ -6,6 +6,7 @@ layout: default
 # [_Pricing Whole-life Insurance_](./index.html)
 <i>Mar 2, 2018</i>
 <br>
+<br>
 <a href="https://github.com/yipeichan/Life-Insurance-with-Annuity">See complete code on Github</a>
 <br>
 ### A Life Insurance Policy Catered to Human Life Cycle 
