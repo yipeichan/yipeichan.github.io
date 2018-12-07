@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <br>
 # [_Pricing Whole-life Insurance_](./index.html)
 <i>Mar 2, 2018</i>
@@ -22,7 +23,7 @@ The pricing program is mainly devided into two parts: the benefit and the discou
 <br>
 <br>
 <font color="black"><b>- Benefits</b></font><br>
-The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br>
+The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br></div>
      
 ```python
 # benefit of death/ total disability coverage and annuity payment 
@@ -49,7 +50,7 @@ The benefit part is where I set the amnount of coverage should death or total di
 <br>
      
 <font color="black"><b>- Discounting the Insurance Benefits</b></font><br>
-Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.
+Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.</div>
 <br>
 
 ```python
@@ -69,14 +70,6 @@ Using backwards recursion, the program can generate the expected present value o
 <br>
 <br>
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
-<br>
-123
 
 [Back](./)
