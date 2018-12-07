@@ -1,16 +1,5 @@
 ---
 layout: post
-title: "Pricing Whole-life Insurance"
-excerpt: Answering questions about images using Neural Networks.
-modified: 2015-11-04
-category: deeplearning
-tags: vision, nlp, deeplearning, wordembeddings
-image:
-  feature:
-  credit: 
-  creditlink: 
-comments: true
-share: true
 ---
 <br>
 # [_Pricing Whole-life Insurance_](./index.html)
