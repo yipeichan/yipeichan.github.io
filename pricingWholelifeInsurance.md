@@ -43,6 +43,7 @@ The benefit part is where I set the amnount of coverage should death or total di
      deathBV[pt-1]=(pricingV[pt-1]+termpB[pt-1]+survB[pt-1])/2  
 ```
 <br>
+     
 <font color="black"><b> Discounting the Insurance Benefits</b></font><br>
 Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.
 <br>
@@ -60,7 +61,7 @@ Using backwards recursion, the program can generate the expected present value o
           deathPVlist[i]=deathPV
 ```
 
-
+<br>
 
 
 
