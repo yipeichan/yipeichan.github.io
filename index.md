@@ -53,6 +53,16 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <hr>
 <br>
+<div class="d"><i>Jul 2, 2016</i></div>
+# [_test_](./another-page.html)   
+<div class="d"></div>
+test.<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 Hosted on GitHub &mdash; Theme modified from <a href="https://github.com/orderedlist">orderedlist</a>
 <br>
 © YI-PEI CHAN
