@@ -13,21 +13,21 @@ layout: posts
 <div class="f">
 This program was modified from one of the insurance products that I devised. It launched market on November 30th, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follow:<br>
      
-1. Death/ Total disability benefit:<br>
+<font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
 during the premium payment peroid (<=the 20th policy year):<br>
 max(policy value, 1.06 times total premium paid, 3 times of amount insured)<br>
 after the premium payment period (>=the 21st policy year):<br>
-max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br>
+max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br><br>
 
-2. Life annuity:<br>
+<font color="black"><b>2. Life annuity:</b></font><br>
 payable annually <br>
 during the premium payment peroid ( before the 20th policy year):<br>
 5% of the premium<br>
 after the premium payment period ( after the 20th policy year):<br>
-50% of the premium<br>
+50% of the premium<br><br>
 
-3. Endowment:<br>
-When the policy holder reaches age 105, the endowment is paid as 1.06 times the total premium paid<br>
+<font color="black"><b>3. Endowment:</b></font><br>
+When the policy holder reaches age 105, the endowment is paid as 1.06 times the total premium paid<br><br>
 
 The motality rate was based on the Fifth Life Experience Table of Taiwan Life Insurance Industry and proveided as a csv file in the github project link page. 
 </div>
