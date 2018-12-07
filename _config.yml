@@ -60,3 +60,5 @@ permalink:   /:categories/:title/
 paginate:     nil
 sass:
   compressed: true
+
+theme: jekyll-theme-architect
