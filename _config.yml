@@ -1,7 +1,62 @@
-title: <p>    <br></p>
-logo: /assets/logo.png
-description: <div class="e"><font color="#a9cba3", font size="4.7"><b><i>Welcome to my homepage! </i></b></font></div><br><b><i><font size="4">YI-PEI CHAN</font> is an actuary specializes in life insurance. She earned her Bachelor's Degree in Economics and Biological Statistics Program from National Taiwan University. She is enthusiastic about math, programming, entrepreneurship and civic engagement.</i></b> 
-show_downloads: false
-google_analytics: UA-123794012-1
-theme: jekyll-theme-minimal
 
+# Site settings
+title:       YI-PEI's blog
+email:       denisechan0525@gmail.com
+author:      YI-PEI CHAN
+description: ""
+baseurl:     ""
+url:         "https://yipeichan.github.io"
+#url:         "http://0.0.0.0:4000"
+date_format: "%b %-d, %Y"
+
+# Google services
+google_analytics: 
+google_verification:
+
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    true
+ajaxify_contact_form: false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: 
+
+# Social icons
+github_username: 
+bitbucket_username:
+stackoverflow_id:
+twitter_username: 
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Post sharing icons
+show_sharing_icons: true
+share_text: 'Share this post!'
+# Change to 'true' to enable individual icons
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: true
+share_stumbleupon: false
+share_hackernews: true
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+#permalink:    pretty
+permalink:   /:categories/:title/
+paginate:     nil
+sass:
+  compressed: true
