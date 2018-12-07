@@ -7,7 +7,7 @@ layout: posts
 <i>Mar 2, 2018</i>
 <br>
 <br>
-<a href="https://github.com/yipeichan/Life-Insurance-with-Annuity"><b>See complete code on Github</b></a>
+<a href="https://github.com/yipeichan/Life-Insurance-with-Annuity"><b>Link to complete code on Github</b></a>
 <br>
 ## Introduction
 <div class="f">
@@ -15,15 +15,15 @@ This program was modified from one of the insurance products that I devised. It 
 <br>
 ## An Insurance Policy Catered to Human Life Cycle
 <div class="f">
-The main target client group of this contract are people aged between 20 to 55. For people in such age range are often those who bring home the backon; they go out to work, on business trevels frequently, which exposed them to higher risks on streets or abroad. Once accidents strike, he/she may lose the ability to work, affecting financial situation of entire family.<br> Therefore during the premium payment period, which is 20 years, the policy provides high leverage of death coverage compared to the amount of premium paid. After 20 years, it would be the time of retirment, and the policy provides 50% of the annual premium until the insured reaches age 105. The annuity helps policy beneficiaries prevent money shortage in face of prolonged life expectancy.</div>
+The main target client group of this contract are people aged between 20 to 55. For people in such age range are often those who bring home the backon; they go out to work, on business trevels frequently, which exposed them to higher risks on streets or abroad. Once accidents strike, he/she may lose the ability to work, affecting financial situation of entire family. Therefore during the premium payment period, which is 20 years, the policy provides high leverage of death coverage compared to the amount of premium paid. After 20 years, it would be the time of retirment, and the policy provides 50% of the annual premium until the insured reaches age 105. The annuity helps policy beneficiaries prevent money shortage in face of prolonged life expectancy.</div>
 <br>
 ## Pricing Algorithm
 <div class="f">
-The pricing program is mainly devided into two parts: the benefit and the discounting process.
+In addition to reading the mortality rate from csv at the beginning, the pricing program can be mainly devided into two parts: the benefit and the present value discounting process.
 <br>
 <br>
-<font color="black"><b>- Benefits</b></font><br>
-The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br></div>
+<font color="black"><b>1. Benefits</b></font><br>
+The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br><br></div>
      
 ```python
 # benefit of death/ total disability coverage and annuity payment 
@@ -54,8 +54,8 @@ The benefit part is where I set the amnount of coverage should death or total di
   deathBV[pt-1]=(pricingV[pt-1]+termpB[pt-1]+survB[pt-1])/2  
 ```
 <div class="f">   
-<font color="black"><b>- Discounting the Insurance Benefits</b></font><br>
-Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.<br></div>
+<font color="black"><b>2. Discounting the Insurance Benefits</b></font><br>
+Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.<br><br></div>
 
 ```python
 # discounting the expected value of death/ total disability coverage and annuity payment 
@@ -74,7 +74,5 @@ Using backwards recursion, the program can generate the expected present value o
 
 <br>
 <br>
-
-
-
-[Back](./)
+ 
+##### [Back](./)
