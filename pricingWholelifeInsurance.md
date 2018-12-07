@@ -9,7 +9,7 @@
 <div class="f">
 This program was modified from one of the insurance products that I devised. It launched market on November 30th, and had pretty good sales record. The insurance contract provides both annuity and death coverage. </div>
 <br>
-<font size=110%><b>  Marketing Message</b></font>
+<font size=110%><b>  Marketing Message</b></font><br>
 <font size=105%><b> A Life Insurance Policy Catered to Human Life Cycle</b><br>
 <div class="f">
 
