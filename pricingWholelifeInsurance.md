@@ -9,7 +9,6 @@ layout: posts
 <br>
 <a href="https://github.com/yipeichan/Life-Insurance-with-Annuity"><b>Link to complete code on Github</b></a>
 <br>
-## Introduction
 <div class="f">
 This program was modified from one of the insurance products that I devised. It launched market on November 30th, and had pretty good sales record. The insurance contract provides both annuity and death coverage. </div>
 <br>
