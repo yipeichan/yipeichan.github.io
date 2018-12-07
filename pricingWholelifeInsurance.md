@@ -21,6 +21,7 @@ The main target client group of this contract are people aged between 20 to 55. 
 The pricing program is mainly devided into two parts: the benefit and the discounting process.<br>
 <font color="black"><b>- Benefits</b></font><br>
 The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written ias following,<br>
+     
 ```python
 // benefit of death/ total disability coverage and annuity payment 
      termpB[pt-1]= 1.06*np.ceil(GP*unit)/unit*ppp    
@@ -42,11 +43,13 @@ The benefit part is where I set the amnount of coverage should death or total di
                survB[i]=np.ceil(GP*unit*0.5)/unit
      deathBV[pt-1]=(pricingV[pt-1]+termpB[pt-1]+survB[pt-1])/2  
 ```
+
 <br>
      
 <font color="black"><b>- Discounting the Insurance Benefits</b></font><br>
 Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.
 <br>
+
 ```python
 // discounting the expected value of death/ total disability coverage and annuity payment 
      for i in range(pt-1,-1,-1):
