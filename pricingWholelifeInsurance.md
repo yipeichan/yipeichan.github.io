@@ -11,7 +11,7 @@ layout: posts
 <br>
 ## Introduction
 <div class="f">
-This program was modified from one of the insurance products that I devised. It launched market on November 30th, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follow:<br>
+This program was modified from one of the insurance products that I devised. It launched market on November 30th, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follow:<br><br>
      
 <font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
 during the premium payment peroid (<=the 20th policy year):<br>
