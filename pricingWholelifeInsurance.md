@@ -57,8 +57,7 @@ The benefit part is where I set the amnount of coverage should death or total di
 <br>
 <div class="f">   
 <font color="black"><b>- Discounting the Insurance Benefits</b></font><br>
-Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.</div>
-<br>
+Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.<br></div>
 
 ```python
 # discounting the expected value of death/ total disability coverage and annuity payment 
