@@ -25,7 +25,7 @@ The pricing program is mainly devided into two parts: the benefit and the discou
 The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br>
      
 ```python
-// benefit of death/ total disability coverage and annuity payment 
+# benefit of death/ total disability coverage and annuity payment 
      termpB[pt-1]= 1.06*np.ceil(GP*unit)/unit*ppp    
      for i in range(0,pt):
           if i>0:
@@ -53,7 +53,7 @@ Using backwards recursion, the program can generate the expected present value o
 <br>
 
 ```python
-// discounting the expected value of death/ total disability coverage and annuity payment 
+# discounting the expected value of death/ total disability coverage and annuity payment 
      for i in range(pt-1,-1,-1):
           survP= (survB[i]*(popSurv[i]-popDeath[i])*v+survPlist[i+1]*popSurv[i+1]*v)/popSurv[i]
           termP=(termpB[i]*(popSurv[i]-popDeath[i])*v+termPlist[i+1]*popSurv[i+1]*v)/popSurv[i] 
