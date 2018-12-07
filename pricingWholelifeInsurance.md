@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <br>
 # [_Pricing Whole-life Insurance_](./index.html)
 <i>Mar 2, 2018</i>
