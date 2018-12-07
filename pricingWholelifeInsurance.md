@@ -27,44 +27,52 @@ The benefit part is where I set the amnount of coverage should death or total di
      
 ```python
 # benefit of death/ total disability coverage and annuity payment 
-     termpB[pt-1]= 1.06*np.ceil(GP*unit)/unit*ppp    
-     for i in range(0,pt):
-          if i>0:
-               pricingVs[i]=pricingV[i]+termpB[i-1]+survB[i-1]  #pricing, policy value with annuity amount included
-               pricingV[i]=max((deathPVlist[i]+termPlist[i]+survPlist[i])-aDuelist[i]*p2,0)
-               if i<=ppp-1:deathBV[i]=(pricingV[i]+pricingVs[i+1]+p2)/2
-               else: deathBV[i]=(pricingV[i]+pricingVs[i+1])/2
-               #else: deathBV[i]=(pricingV[i]+survB[i]+termpB[i])/2
-          else: #i=0
-               pricingV[i]=max((deathPVlist[i]+termPlist[i]+survPlist[i])-aDuelist[i]*NP,0)
-               deathBV[i]=(pricingV[i]+pricingVs[i+1]+p1)/2     
-          if i<=ppp-1:  ###death benefit with premium included to take max.
-               deathB[i]=max(deathBV[i],1.06*np.ceil(GP*unit)/unit*(i+1),3)
-               survB[i]=np.ceil(GP*unit*0.05)/unit
-          else:
-               deathB[i]=max(deathBV[i],1.06*np.ceil(GP*unit)/unit*ppp,1)
-               survB[i]=np.ceil(GP*unit*0.5)/unit
-     deathBV[pt-1]=(pricingV[pt-1]+termpB[pt-1]+survB[pt-1])/2  
+  
+  termpB[pt-1]= 1.06*np.ceil(GP*unit)/unit*ppp 
+  
+  for i in range(0,pt):
+       if i>0:
+            pricingVs[i]=pricingV[i]+termpB[i-1]+survB[i-1]  
+            #pricing, policy value with annuity amount included
+            
+            pricingV[i]=max((deathPVlist[i]+termPlist[i]+survPlist[i])-aDuelist[i]*p2,0)
+            if i<=ppp-1:deathBV[i]=(pricingV[i]+pricingVs[i+1]+p2)/2
+            else: deathBV[i]=(pricingV[i]+pricingVs[i+1])/2
+            
+       else: #i=0
+            pricingV[i]=max((deathPVlist[i]+termPlist[i]+survPlist[i])-aDuelist[i]*NP,0)
+            deathBV[i]=(pricingV[i]+pricingVs[i+1]+p1)/2
+            
+       if i<=ppp-1:  ###death benefit with premium included to take max.
+            deathB[i]=max(deathBV[i],1.06*np.ceil(GP*unit)/unit*(i+1),3)
+            survB[i]=np.ceil(GP*unit*0.05)/unit
+            
+       else:
+            deathB[i]=max(deathBV[i],1.06*np.ceil(GP*unit)/unit*ppp,1)
+            survB[i]=np.ceil(GP*unit*0.5)/unit
+            
+  deathBV[pt-1]=(pricingV[pt-1]+termpB[pt-1]+survB[pt-1])/2  
 ```
 
 <br>
-     
+<div class="f">   
 <font color="black"><b>- Discounting the Insurance Benefits</b></font><br>
 Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.</div>
 <br>
 
 ```python
 # discounting the expected value of death/ total disability coverage and annuity payment 
-     for i in range(pt-1,-1,-1):
-          survP= (survB[i]*(popSurv[i]-popDeath[i])*v+survPlist[i+1]*popSurv[i+1]*v)/popSurv[i]
-          termP=(termpB[i]*(popSurv[i]-popDeath[i])*v+termPlist[i+1]*popSurv[i+1]*v)/popSurv[i] 
-          if i>=ppp: aDue=0
-          else: aDue=(popSurv[i]+aDue*popSurv[i+1]*v)/popSurv[i]
-          aDuelist[i]=aDue
-          termPlist[i]=termP
-          survPlist[i]=survP     
-          deathPV= (deathB[i]*popDeath[i]*v**0.5+deathPVlist[i+1]*popSurv[i+1]*v)/popSurv[i]  ##pricing death value of the policy   
-          deathPVlist[i]=deathPV
+  for i in range(pt-1,-1,-1):
+       survP= (survB[i]*(popSurv[i]-popDeath[i])*v+survPlist[i+1]*popSurv[i+1]*v)/popSurv[i]
+       termP=(termpB[i]*(popSurv[i]-popDeath[i])*v+termPlist[i+1]*popSurv[i+1]*v)/popSurv[i] 
+       if i>=ppp: aDue=0
+       else: aDue=(popSurv[i]+aDue*popSurv[i+1]*v)/popSurv[i]
+       aDuelist[i]=aDue
+       termPlist[i]=termP
+       survPlist[i]=survP     
+       deathPV= (deathB[i]*popDeath[i]*v**0.5+deathPVlist[i+1]*popSurv[i+1]*v)/popSurv[i]  
+       ##pricing death value of the policy   
+       deathPVlist[i]=deathPV
 ```
 
 <br>
