@@ -18,9 +18,11 @@ The main target client group of this contract are people aged between 20 to 55. 
 <br>
 ## Pricing Algorithm
 <div class="f">
-The pricing program is mainly devided into two parts: the benefit and the discounting process.<br>
+The pricing program is mainly devided into two parts: the benefit and the discounting process.
+<br>
+<br>
 <font color="black"><b>- Benefits</b></font><br>
-The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written ias following,<br>
+The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br>
      
 ```python
 // benefit of death/ total disability coverage and annuity payment 
@@ -65,7 +67,7 @@ Using backwards recursion, the program can generate the expected present value o
 ```
 
 <br>
-
+<br>
 
 
 
