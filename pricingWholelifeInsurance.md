@@ -99,7 +99,6 @@ Using backwards recursion, the program can generate the expected present value o
 Writing the expected present values of benefits mathematically in equations would be as follow,<br>
 n: premium payment period 
 <br>
-<br>
 <div class="f">   
 <font color="black"><b>1. Death/ Total Disability Benefit<br></b> </div>
 <img width="322" alt="screen shot 2018-12-07 at 11 31 55 pm" src="https://user-images.githubusercontent.com/24948460/49688361-c3bf1900-fb4b-11e8-9716-5c14b67d0a8d.png">
