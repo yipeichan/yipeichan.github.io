@@ -113,7 +113,8 @@ n: premium payment period
 <br>
 <br>
 <b>4. Insurance Premium <br></b> 
-<img width="552" alt="screen shot 2018-12-07 at 11 31 20 pm" src="https://user-images.githubusercontent.com/24948460/49688365-c457af80-fb4b-11e8-9343-29a1eb99e8cc.png"></div>
+<img width="552" alt="screen shot 2018-12-07 at 11 31 20 pm" src="https://user-images.githubusercontent.com/24948460/49688365-c457af80-fb4b-11e8-9343-29a1eb99e8cc.png">
+</div>
 <br>
 <br>
  
