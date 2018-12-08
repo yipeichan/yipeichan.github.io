@@ -94,6 +94,7 @@ Using backwards recursion, the program can generate the expected present value o
        deathPVlist[i]=deathPV
 ```
 
+## Mathematical Statement
 <br>
 Writing the expected present values of benefits mathematically in equations would be as follow,<br>
 n: premium payment period 
