@@ -10,9 +10,7 @@ layout: posts
 <br>
 ## Introduction
 <div class="f">
-This program was written in June 2016 when I took the course: Financial Computation in National Taiwan University. Unlike normal optins, lookback options are path dependent and its strike price is only determined at maturity. The payoff rather than be calculated according to a fixed strike price; the strike price equals to the maximum or minimum price of underlying assets over the life of the option.
-<br>
- Therefore, the pay off of an European lookback option can be written as:<br> 
+This program was written in June 2016 when I took the course: Financial Computation in National Taiwan University. Unlike normal optins, lookback options are path dependent and its strike price is only determined at maturity. The payoff rather than be calculated according to a fixed strike price; the strike price equals to the maximum or minimum price of underlying assets over the life of the option. Therefore, the pay off of an European lookback option can be written as:<br><br> 
  1. call: <br>
  c<sub>t</sub>=max(S<sub>t</sub>-m<sub>t</sub>,0), m<sub>t</sub> = min{S<sub>u</sub>|0<=u<=t}
  <br>
