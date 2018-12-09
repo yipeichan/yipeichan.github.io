@@ -20,7 +20,7 @@ p<sub>t</sub> = max(m<sub>t</sub>-S<sub>t</sub>,0), m<sub>t</sub>= max{S<sub>u</
 <br>
 ## Pricing Algorithm-- Monte Carlo Simulation
 <div class="f">
-The pricing algorithm can be sepreated into process as follows:
+The pricing algorithm can be sepreated into process as follows:<br>
 1. Generate a uniformly distributed random variable between 0 and 1, and compute the value under normal distribution using the inverse cummulative distribution function. The inverse cummulative distribution function can be written in different ways which is often discussed in the course of Numerical Analysis.</div>
 
 ```python
