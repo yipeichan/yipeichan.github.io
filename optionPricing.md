@@ -17,7 +17,7 @@ c<sub>t</sub> = max(S<sub>t</sub>-m<sub>t</sub>,0), m<sub>t</sub> = min{S<sub>u<
 <font color="black"><b>2. Put: </b><br></font>
 p<sub>t</sub> = max(m<sub>t</sub>-S<sub>t</sub>,0), m<sub>t</sub>= max{S<sub>u</sub>|0<=u<=t}
 <br></div>
-
+<br>
 ## Pricing Algorithm-- Monte Carlo Simulation
 <div class="f">
 The pricing algorithm can be sepreated into process as follows:
