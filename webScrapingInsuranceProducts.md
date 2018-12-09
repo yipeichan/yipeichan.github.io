@@ -18,7 +18,7 @@ The program can maily be divided into two parts as follows:<br>
 <br>
 <font color="black"><b>1. Extracting information from the web</b></font><br>
 The program extract all the names of products available from the site of the targeted insurance company; <br>
-it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ annuity, etc) with the inputed date added at the end of the name of the csv files</div><br>
+it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ annuity, etc) with the inputed date added at the end of the name of the csv files<br><br></div>
 
 ```python
 
