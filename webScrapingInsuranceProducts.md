@@ -14,7 +14,9 @@ This program was written because I have to do insurance market investigation wee
 
 ## Algorithm
 <div class="f">
-<font color="black"><b>1. First part: Extracting information from the web</b></font><br>
+The program can maily be divided into two parts as follows:<br>
+<br>
+<font color="black"><b>1. Extracting information from the web</b></font><br>
 The program extract all the names of products available from the site of the targeted insurance company; <br>
 it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ annuity, etc) with the inputed date added at the end of the name of the csv files</div><br>
 
@@ -55,7 +57,7 @@ it then export the information into seperated csv files according to the categor
 ```
 
 <div class="f">
-<font color="black"><b>2. Second part of the program: Comparing lists</b></font><br>
+<font color="black"><b>2. Comparing csv lists</b></font><br>
 The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site) within the period and what had been discontinued (i.e no longer on the site)<br><br></div>
 
 ```python
@@ -86,7 +88,7 @@ else:
 ```
 
 
-## Program Instructions: <br>
+## Program Instructions <br>
 <div class="f">
 <font color="black"><b>1. Enter the path of the directory of your files:</b></font><br><br>
 <img width="1226" alt="demo1" src="https://user-images.githubusercontent.com/24948460/46902893-ada42c00-ceff-11e8-92b2-a18f776b0391.png">
