@@ -36,7 +36,7 @@ The pricing algorithm can be sepreated into process as follows:
 <div class="f">
 2. Recall that if Z ~ N(0,1), a lognormal stock price can be written <br>
 <font size="large">S<sub>T</sub> = S<sub>0</sub>*e<sup> (&alpha; - &delta; - 0.5 * &sigma; * &sigma; ) * T+ &sigma; * sqrt(T) *Z </sup> <br></font>
-Therefore, we can derive the price as follow, and later find averages of payoffs with numerous times of simulation.</div>
+Therefore, we can derive the price as follow, and later find averages of payoffs with numerous times of simulations.</div>
 
 ```python
 
