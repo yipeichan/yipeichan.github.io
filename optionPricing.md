@@ -26,11 +26,11 @@ The pricing algorithm can be sepreated into process as follows:
 ```python
 #  Generate a uniformly distributed random variable
 
-				u=rand()/(double)RAND_MAX;
-				normInv = NormalCDFInverse(u);
-				normInv=normInv*standardDev-mean;				
-				stockPrice[i]=stockPrice[i]*exp(normInv);
-				smax=max(smax,stockPrice[i]);
+		u=rand()/(double)RAND_MAX;
+		normInv = NormalCDFInverse(u);
+		normInv=normInv*standardDev-mean;				
+		stockPrice[i]=stockPrice[i]*exp(normInv);
+		smax=max(smax,stockPrice[i]);
 
 ```
 
@@ -40,9 +40,9 @@ Therefore, we can derive the price as follow, and later find averages of payoffs
 
 ```python
 
-			//European lookback put
-			stockPrice[i]=max(smax-stockPrice[i],0)*exp(-iRate*tOption);
-			average1= average1+stockPrice[i];
+	//European lookback put
+	stockPrice[i]=max(smax-stockPrice[i],0)*exp(-iRate*tOption);
+	average1= average1+stockPrice[i];
 
 ``` 
  
