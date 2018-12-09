@@ -14,7 +14,7 @@ layout: posts
 <div class="f">
 This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on would be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones.  Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
 
-## Method:
+## Algorithm
 
 1. First part: Extracting information from the web<br> 
 The program extract all the names of products available from the site of the targeted insurance company; <br>
@@ -88,7 +88,7 @@ else:
 ```
 
 
-## Instructions: <br>
+## Program Instructions: <br>
 1. Enter the path of the directory of your files:<br>
 <img width="1226" alt="demo1" src="https://user-images.githubusercontent.com/24948460/46902893-ada42c00-ceff-11e8-92b2-a18f776b0391.png">
 
