@@ -14,10 +14,10 @@ This program was written in June 2016 when I took the course: Financial Computat
 <br>
  Therefore, the pay off of an European lookback option can be written as:<br> 
  1. call: <br>
- c<sub>t</sub>=max(S<sub>t</sub>-m<sup>t</sup><sub>0</sub>,0), m<sup>t</sup><sub>0</sub> = min{S<sub>u</sub>|0<=u<=t}
+ c<sub>t</sub>=max(S<sub>t</sub>-m<sub>t</sub>,0), m<sub>t</sub> = min{S<sub>u</sub>|0<=u<=t}
  <br>
  2. put:<br>
- p<sub>t</sub>=max(m<sup>t</sup><sub>0</sub>-S<sub>t</sub>,0), m<sup>t</sup><sub>0</sub>= max{S<sub>u</sub>|0<=u<=t}
+ p<sub>t</sub>=max(m<sub>t</sub>-S<sub>t</sub>,0), m<sub>t</sub>= max{S<sub>u</sub>|0<=u<=t}
 
  
   
