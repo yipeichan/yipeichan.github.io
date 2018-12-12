@@ -11,7 +11,7 @@ layout: posts
 <br>
 ## Introduction
 <div class="f">
-This program was modified from one of the insurance products that I devised. It launched market on November 30<sup>th</sup>, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follow:<br><br>
+This program was modified from one of the insurance products that I devised. It launched market on November 30<sup>th</sup>, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follows:<br><br>
      
 <font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
 during the premium payment peroid (<=the 20th policy year):<br>
@@ -45,7 +45,7 @@ In addition to reading the mortality rate from csv at the beginning, the pricing
 <br>
 <br>
 <font color="black"><b>1. Benefits</b></font><br>
-The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follow,<br><br></div>
+The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follows,<br><br></div>
      
 ```python
 # benefit of death/ total disability coverage and annuity payment 
@@ -94,7 +94,7 @@ Using backwards recursion, the program can generate the expected present value o
 
 <br>
 ## Mathematical Statement
-<div class="f">Writing the expected present values of benefits mathematically in equations would be as follow,<br>
+<div class="f">Writing the expected present values of benefits mathematically in equations would be as follows,<br>
 n: premium payment period</div> 
 <br> 
 <font color="black"><b>1. Death/ Total Disability Benefit<br></b></font>
