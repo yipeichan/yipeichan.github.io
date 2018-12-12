@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./optionPricing.html)   
 <div class="d"></div>
-This article shares an option pricing program with Monte Carlo Simulation method and binomial tree framework.<br>
+This article shares an look-back option pricing program with Monte Carlo Simulation method.<br>
 <br>
 <br>
 <br>
