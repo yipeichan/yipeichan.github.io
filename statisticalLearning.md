@@ -1,18 +1,16 @@
 ---
-layout: default
+layout: posts
 ---
 <br>
 
 # [_Statistical Learning_](./index.html)
 <i>July 5, 2018</i>
 
-<a href="https://github.com/yipeichan/Statistical-Learning">See complete code on Github</a>
+<a href="https://github.com/yipeichan/Statistical-Learning"><b>Link to complete code on Github</b></a>
 
 ## Met Statistical Learning for the first time 
 
-I came across the term "Statistical Learning" in 2017 when ; before then I did hear about applications as well as numerous 
-algorithms of machine learning. Statistical Learning immediately intrigued me, because as far as I know 
-
+I came across Statistical Learning when watching a talk on Youtube delivered by Larry Wasserman in 2017. And I was soon intrigued by these new approaches in extracting information from data. 
 
 
 
