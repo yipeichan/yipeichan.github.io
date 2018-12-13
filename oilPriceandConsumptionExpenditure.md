@@ -5,7 +5,8 @@ layout: posts
 <br>
 # [_Oil Price and Consumption Expenditure_](./index.html)
 <i>Jul 2, 2016</i>
-
+<br>
+<br>
 <a href="https://github.com/yipeichan/Oil_Price_and_Consumption_Expenditure"><b>Link to complete code on Github</b></a>
 <br>
 I wrote the R code script to manage and analyze multiple time series economic data in 2016. The result was summarized and provided in my bachelor's thesis.
