@@ -16,6 +16,7 @@ I wrote the R code script to manage and analyze multiple time series economic da
 ## Motivation 
 This thesis studies the endogenous relation between consumption and oil prices in the United States form year 1980 to year 2016 on quarter basis, and mainly focuses on changes of consumption level in times of oil price declines. Fluctuations of stock market and housing market which are supposed to influence consumption are taken as explanatory variables in the empirical model.
 <br>
+<br>
 With the Error Correction Model(ECM) under the Permanent Income Hypothesis, this thesis indicates how much of the positive effect of oil price declines on real GDP worked through the consumption channel were offset by the negative effect generated through allocative channels. Consumption behavior, and firm investment decision changes according to oil price fluctuations are as well discussed.
 <br>
 
