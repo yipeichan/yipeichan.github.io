@@ -21,7 +21,8 @@ p<sub>t</sub> = max(m<sub>t</sub>-S<sub>t</sub>,0), m<sub>t</sub>= max{S<sub>u</
 ## Pricing Algorithm-- Monte Carlo Simulation
 <div class="f">
 The pricing algorithm can be sepreated into process as follows:<br>
-1. Generate a uniformly distributed random variable between 0 and 1, and compute the value under normal distribution using the inverse cummulative distribution function. The inverse cummulative distribution function can be written in different ways which is often discussed in the course of Numerical Analysis.</div>
+1. Generate a uniformly distributed random variable between 0 and 1, and compute the value under normal distribution using the inverse cummulative distribution function. The inverse cummulative distribution function can be written in different ways which is often discussed in the course Numerical Analysis.</div>
+<br>
 
 ```python
 #  Generate a uniformly distributed random variable
@@ -37,6 +38,7 @@ The pricing algorithm can be sepreated into process as follows:<br>
 2. Recall that if Z ~ N(0,1), a lognormal stock price can be written <br>
 <font size="3%">S<sub>T</sub> = S<sub>0</sub>*e<sup> (&alpha; - &delta; - 0.5 * &sigma; * &sigma; ) * T+ &sigma; * sqrt(T) *Z </sup> <br></font>
 Therefore, we can derive the price as follow, and later find averages of payoffs with numerous times of simulations.</div>
+<br>
 
 ```python
 
