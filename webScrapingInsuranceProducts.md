@@ -10,7 +10,7 @@ layout: posts
 
 ## Introduction
 <div class="f">
-This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on would be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones.  Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
+This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones.  Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
 
 ## Algorithm
 <div class="f">
@@ -18,7 +18,7 @@ The program can maily be divided into two parts as follows:<br>
 <br>
 <font color="black"><b>1. Extracting information from the web</b></font><br>
 The program extract all the names of products available from the site of the targeted insurance company; <br>
-it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ annuity, etc) with the inputed date added at the end of the name of the csv files<br><br></div>
+it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ group insurance, etc) with the inputed date added at the end of the name of the csv files<br><br></div>
 
 ```python
 
