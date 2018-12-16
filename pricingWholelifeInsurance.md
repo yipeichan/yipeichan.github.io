@@ -45,7 +45,7 @@ In addition to reading the mortality rate from csv at the beginning, the pricing
 <br>
 <br>
 <font color="black"><b>1. Benefits</b></font><br>
-The benefit part is where I set the amnount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follows,<br><br></div>
+The benefit part is where I set the amount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follows,<br><br></div>
      
 ```python
 # benefit of death/ total disability coverage and annuity payment 
