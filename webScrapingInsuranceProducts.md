@@ -18,7 +18,7 @@ The program can maily be divided into two parts as follows:<br>
 <br>
 <font color="black"><b>1. Extracting information from the web</b></font><br>
 The program extract all the names of products available from the site of the targeted insurance company; <br>
-it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ group insurance, etc) with the inputed date added at the end of the name of the csv files<br><br></div>
+it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ group insurance, etc) with the inputed date added at the end of the name of the csv files.<br><br></div>
 
 ```python
 
@@ -58,7 +58,7 @@ it then export the information into seperated csv files according to the categor
 
 <div class="f">
 <font color="black"><b>2. Comparing csv lists</b></font><br>
-The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period <br><br></div>
+The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period. <br><br></div>
 
 ```python
 
