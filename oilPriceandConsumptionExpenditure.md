@@ -10,7 +10,7 @@ layout: posts
 <a href="https://github.com/yipeichan/Oil_Price_and_Consumption_Expenditure"><b>Link to complete code on Github</b></a>
 <br>
 <br>
-<a href="https://github.com/yipeichan/yipeichan.github.io/thesis.pdf">Download the Thesis</a>
+<a href="https://github.com/yipeichan/yipeichan.github.io/thesis.pdf"><b>Download the Thesis</b></a>
 <br>
 <br>
 I wrote the R code script to manage and analyze multiple time series economic data in 2016. The result was summarized and provided in my bachelor's thesis.
