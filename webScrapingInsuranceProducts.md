@@ -10,7 +10,7 @@ layout: posts
 
 ## Introduction
 <div class="f">
-This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones.  Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
+This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones. Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
 
 ## Algorithm
 <div class="f">
@@ -58,7 +58,7 @@ it then export the information into seperated csv files according to the categor
 
 <div class="f">
 <font color="black"><b>2. Comparing csv lists</b></font><br>
-The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site) within the period and what had been discontinued (i.e no longer on the site)<br><br></div>
+The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period <br><br></div>
 
 ```python
 
