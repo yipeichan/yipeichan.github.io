@@ -98,20 +98,23 @@ Using backwards recursion, the program can generate the expected present value o
 n: premium payment period</div> 
 <br> 
 <font color="black"><b>1. Death/ Total Disability Benefit<br></b></font>
-<img width="322" alt="screen shot 2018-12-07 at 11 31 55 pm" src="https://user-images.githubusercontent.com/24948460/49688361-c3bf1900-fb4b-11e8-9716-5c14b67d0a8d.png">
+<br>
+<img width="552" alt="screen shot 2018-12-07 at 11 31 20 pm" src="https://user-images.githubusercontent.com/24948460/49688365-c457af80-fb4b-11e8-9343-29a1eb99e8cc.png">
 <br>
 <br>
-<font color="black"><b>2. Annuity<br></b></font> 
+<font color="black"><b>2. Annuity<br></b></font>
+<br>
 <img width="429" alt="screen shot 2018-12-07 at 11 31 43 pm" src="https://user-images.githubusercontent.com/24948460/49688364-c457af80-fb4b-11e8-91ef-5ee1914725cc.png">
 <br>
 <br>
-<font color="black"><b>3. Endowment<br></b></font> 
+<font color="black"><b>3. Endowment<br></b></font>
+<br>
 <img width="354" alt="screen shot 2018-12-07 at 11 31 50 pm" src="https://user-images.githubusercontent.com/24948460/49688362-c3bf1900-fb4b-11e8-8bc7-f75646e7e786.png">
 <br>
 <br>
 <font color="black"><b>4. Insurance Premium <br></b></font>
-<img width="552" alt="screen shot 2018-12-07 at 11 31 20 pm" src="https://user-images.githubusercontent.com/24948460/49688365-c457af80-fb4b-11e8-9343-29a1eb99e8cc.png">
-
+<br>
+<img width="322" alt="screen shot 2018-12-07 at 11 31 55 pm" src="https://user-images.githubusercontent.com/24948460/49688361-c3bf1900-fb4b-11e8-9716-5c14b67d0a8d.png">
 <br>
 <br>
 
