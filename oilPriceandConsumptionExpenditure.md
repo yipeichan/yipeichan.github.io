@@ -12,6 +12,10 @@ layout: posts
 <br>
 <a href="Thesis.pdf"><b>Download the Thesis</b></a>
 <br>
+<form method="get" action="Thesis.pdf">
+   <button type="submit">Download the Thesis</button>
+</form>
+<br>
 <br>
 I wrote the R code script to manage and analyze multiple time series economic data in 2016. The result was summarized and provided in my bachelor's thesis.
 <br>
