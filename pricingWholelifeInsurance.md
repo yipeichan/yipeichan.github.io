@@ -94,7 +94,7 @@ Using backwards recursion, the program can generate the expected present value o
 
 <br>
 ## Mathematical Statement
-<div class="f">Writing the expected present values of benefits mathematically in equations would be as follows,<br>
+<div class="f">Writing the expected present values of the benefits provided in this policy in mathematical equations would be as follows,<br>
 n: premium payment period</div> 
 <br> 
 <font color="black"><b>1. Death/ Total Disability Benefit<br></b></font>
