@@ -14,9 +14,9 @@ layout: posts
 This program was modified from one of the insurance products that I devised. It launched market on November 30<sup>th</sup> 2017, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follows,<br><br>
      
 <font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
-- during the premium payment peroid (<=the 20th policy year):<br>
+- during the premium payment peroid (<=the 20<sup>th</sup> policy year):<br>
   - max(policy value, 1.06 times total premium paid, 3 times of amount insured)<br>
-- after the premium payment period (>=the 21st policy year):<br>
+- after the premium payment period (>=the 21<sup>st</sup> policy year):<br>
   - max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br><br>
 
 <font color="black"><b>2. Life annuity:</b></font><br>
