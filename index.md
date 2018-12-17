@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./optionPricing.html)   
 <div class="d"></div>
-This article shares an look-back option pricing program with Monte Carlo Simulation method.<br>
+This article shares a look-back option pricing program with Monte Carlo Simulation method.<br>
 <br>
 <br>
 <br>
@@ -14,7 +14,7 @@ This article shares an look-back option pricing program with Monte Carlo Simulat
 <hr>
 <br>
 <div class="d"><i>Mar 2, 2018</i></div>
-# [_Pricing Whole-life Insurance_](./pricingWholelifeInsurance.html)   
+# [_Whole-life Insurance Pricing_](./pricingWholelifeInsurance.html)   
 <div class="d"></div>
 This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
 <br>
