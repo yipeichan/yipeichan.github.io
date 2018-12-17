@@ -21,9 +21,9 @@ max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br><b
 
 <font color="black"><b>2. Life annuity:</b></font><br>
 payable annually <br>
-during the premium payment peroid ( before the 20th policy year):<br>
+during the premium payment peroid ( <=the 20<sup>th</sup> policy year):<br>
 5% of the premium<br>
-after the premium payment period ( after the 20th policy year):<br>
+after the premium payment period ( >=the 21<sup>st</sup> policy year):<br>
 50% of the premium<br><br>
 
 <font color="black"><b>3. Endowment:</b></font><br>
