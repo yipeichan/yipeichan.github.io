@@ -15,16 +15,16 @@ This program was modified from one of the insurance products that I devised. It 
      
 <font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
 - during the premium payment peroid (<=the 20<sup>th</sup> policy year):<br>
-  - max(policy value, 1.06 times total premium paid, 3 times of amount insured)<br>
+  max(policy value, 1.06 times total premium paid, 3 times of amount insured)<br>
 - after the premium payment period (>=the 21<sup>st</sup> policy year):<br>
-  - max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br><br>
+  max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br><br>
 
 <font color="black"><b>2. Life annuity:</b></font><br>
 - payable annually <br>
 - during the premium payment peroid ( <=the 20<sup>th</sup> policy year):<br>
-  - 5% of the premium<br>
+  5% of the premium<br>
 - after the premium payment period ( >=the 21<sup>st</sup> policy year):<br>
-  - 50% of the premium<br><br>
+  50% of the premium<br><br>
 
 <font color="black"><b>3. Endowment:</b></font><br>
 When the policy holder reaches age 105, the endowment is paid as 1.06 times the total premium paid<br><br>
