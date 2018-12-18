@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="d"><div class="e"><font color="#a9cba3"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
+<div class="d"><div class="e"><font color="#9ac293"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./optionPricing.html)   
