@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<div class="d"><div class="e"><font color="#9ac293"><font size="5"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
+<div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>May 25, 2018</i></div>
 # [_Option Pricing_](./optionPricing.html)   
 <div class="d"></div>
-This article shares a look-back option pricing program with Monte Carlo Simulation method.<br>
+<b>This article shares a look-back option pricing program with Monte Carlo Simulation method.</b><br>
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@ This article shares a look-back option pricing program with Monte Carlo Simulati
 <div class="d"><i>Mar 2, 2018</i></div>
 # [_Whole-life Insurance Pricing_](./pricingWholelifeInsurance.html)   
 <div class="d"></div>
-This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
+<b>This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.</b><br>
 <br>
 <br>
 <br>
@@ -26,7 +26,7 @@ This article shares a pricing program for an insurance contract whose premiums a
 <div class="d"><i>Feb 28, 2018</i></div>
 # [_Web Scraping Insurance Products_](./webScrapingInsuranceProducts.html)   
 <div class="d"></div>
-This article shares a program that can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.<br>
+<b>This article shares a program that can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.</b><br>
 <br>
 <br>
 <br>
@@ -36,7 +36,7 @@ This article shares a program that can be run weekly to generate lists to track 
 <div class="d"><i>Jan 25, 2018</i></div>
 # [_Statistical Learning_](./statisticalLearning.html)   
 <div class="d"></div>
-This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course and some relevant papers I read.<br>
+<b>This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course and some relevant papers I read.</b><br>
 <br>
 <br>
 <br>
@@ -46,7 +46,7 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <div class="d"><i>Jul 2, 2016</i></div>
 # [_Oil Price and Consumption Expenditure_](./oilPriceandConsumptionExpenditure.html)   
 <div class="d"></div>
-This article shares the code script and the thesis I wrote in 2016, discussing the relationship between oil price and consumption expenditure.<br>
+<b>This article shares the code script and the thesis I wrote in 2016, discussing the relationship between oil price and consumption expenditure.</b><br>
 <br>
 <br>
 <br>
