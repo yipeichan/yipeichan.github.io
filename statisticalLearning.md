@@ -9,7 +9,7 @@ layout: posts
 
 <a href="https://github.com/yipeichan/Statistical-Learning"><b>Link to complete code on Github</b></a>
 
-<div class="f">
+<div class="f"><font color="black">
 I came across the term "Statistical Learning" when watching a talk on Youtube delivered by Larry Wasserman in 2017. And I was soon intrigued by the new approaches in extracting information from data. In making predictions, before then, I was familiar with modeling techniques, like selecting with AIC, BIC, and linear/ logisitc regressions, dummy variables, etc. as these were taught in the course Econometrics and I had direct implement in my bechalor thesis.<br>
 <br>
 The greatest change that Statistical Learning had on me was the notion: <br>
@@ -17,7 +17,7 @@ The greatest change that Statistical Learning had on me was the notion: <br>
   
 
 
-
+</font>
 </div>
 
 
