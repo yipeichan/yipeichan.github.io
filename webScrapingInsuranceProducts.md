@@ -9,16 +9,16 @@ layout: posts
 <a href="https://github.com/yipeichan/Insurance-Product-Lists-with-Web-Scraping"><b>Link to complete code on Github</b></a>
 
 ## Introduction
-<div class="f">
-This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones. Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></div>
+<div class="f"><font color="black">
+This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones. Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></font></div>
 
 ## Algorithm
-<div class="f">
+<div class="f"><font color="black">
 The program can maily be divided into two parts as follows:<br>
 <br>
 <font color="black"><b>1. Extracting information from the web</b></font><br>
 The program extract all the names of products available from the site of the targeted insurance company; <br>
-it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ group insurance, etc) with the inputed date added at the end of the name of the csv files.<br><br></div>
+it then export the information into seperated csv files according to the category of insurance (ex. life/ health/ accident/ annuities/ group insurance, etc) with the inputed date added at the end of the name of the csv files.<br><br></font></div>
 
 ```python
 
@@ -56,9 +56,9 @@ it then export the information into seperated csv files according to the categor
 
 ```
 
-<div class="f">
+<div class="f"><font color="black">
 <font color="black"><b>2. Comparing csv lists</b></font><br>
-The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period. <br><br></div>
+The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period. <br><br></font></div>
 
 ```python
 
@@ -89,7 +89,7 @@ else:
 
 
 ## Program Instructions <br>
-<div class="f">
+<div class="f"><font color="black">
 <font color="black"><b>1. Enter the path of the directory of your files:</b></font><br><br>
 <img width="1226" alt="demo1" src="https://user-images.githubusercontent.com/24948460/46902893-ada42c00-ceff-11e8-92b2-a18f776b0391.png">
 <br>
@@ -115,7 +115,7 @@ To compare only two csv files, enter 2 (see point 6) <br><br>
 <br>
 <font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and Tthe result of comparison would be displayed</b></font><br><br>
 <img width="1076" alt="demo6" src="https://user-images.githubusercontent.com/24948460/46902966-d37e0080-cf00-11e8-8fc5-846aafc5cd93.png">
-
+</font>
 </div>
 <br>
 <br>
