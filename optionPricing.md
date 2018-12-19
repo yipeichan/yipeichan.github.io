@@ -12,10 +12,10 @@ layout: posts
 <div class="f">
 <font color="black">This program was written in June 2016 when I took the course: Financial Computation in National Taiwan University. Unlike normal optins, lookback options are path dependent and its strike price is determined at maturity. Rather than being calculated according to a fixed strike price, the strike price of a lookback option equals to the maximum or minimum price of underlying assets over its life. Therefore, the pay off of an European lookback option can be written as:<br><br> 
 <font color="black"><b>1. Call: </b><br></font>
-c<sub>t</sub> = max ( S<sub>t</sub> - m<sub>t</sub> , 0 ), m<sub>t</sub> = min { S<sub>u</sub> | 0 <= u <= t }
+c<sub>t</sub> = max ( S<sub>t</sub> - m<sub>t</sub> , 0 ) , m<sub>t</sub> = min { S<sub>u</sub> | 0 <= u <= t }
 <br><br>
 <font color="black"><b>2. Put: </b><br></font>
-p<sub>t</sub> = max ( m<sub>t</sub> - S<sub>t</sub> , 0 ), m<sub>t</sub> = max { S<sub>u</sub> | 0 < = u < = t }
+p<sub>t</sub> = max ( m<sub>t</sub> - S<sub>t</sub> , 0 ) , m<sub>t</sub> = max { S<sub>u</sub> | 0 < = u < = t }
 <br></font></div>
 <br>
 ## Pricing Algorithm-- Monte Carlo Simulation
