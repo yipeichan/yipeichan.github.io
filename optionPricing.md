@@ -38,6 +38,7 @@ p<sub>t</sub> = max(m<sub>t</sub>-S<sub>t</sub>,0), m<sub>t</sub>= max{S<sub>u</
 2. Recall that if Z ~ N(0,1), a lognormal stock price can be written <br>
 <font size="3%">
 	S<sub>T</sub> = S<sub>0</sub>*e<sup> (&alpha; - &delta; - 0.5 * &sigma; * &sigma; ) * T+ &sigma; * sqrt(T) *Z </sup> 
+	\frac{1+sin(x)}{y}
 <br></font>
 Therefore, we can derive the price as follow, and later find averages of payoffs with numerous times of simulations.</font></div>
 <br>
