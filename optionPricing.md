@@ -51,7 +51,9 @@ Therefore, we can derive the price as follow, and later find averages of payoffs
 <br>
 
 ## Pricing Program Applications
-<div class="f"><font color="black">In addition to setting spot price equals 50 at t<sub>0</sub>, risk free rate 0.1, yield rate 0, volatility of the underlying stock price  0.4, time to maturity of option 0.25, and time interval of 300, you can enter the number of times of simulation. After 9999 times of simulation, for example, the program would demonstrate the price of the European lookback put.<br></font></div>
+<div class="f"><font color="black">
+In addition to setting spot price equals 50 at t<sub>0</sub>, risk free rate 0.1, yield rate 0, volatility of the underlying stock price  0.4, time to maturity of option 0.25, and time interval of 300, you can enter the number of times of simulation. After 9999 times of simulation, for example, the program would demonstrate the price of the European lookback put.
+<br></font></div>
 <br>
 
 <img width="844" alt="screen shot 2018-12-09 at 10 06 11 pm" src="https://user-images.githubusercontent.com/24948460/49698542-41446100-fc00-11e8-967f-a777ddab0b1a.png">
