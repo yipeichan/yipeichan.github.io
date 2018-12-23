@@ -24,11 +24,10 @@ p<sub>t</sub> = max ( m<sub>t</sub> - S<sub>t</sub> , 0 ) , m<sub>t</sub> = max 
 1. Generate a uniformly distributed random variable between 0 and 1, and compute the value under normal distribution using the inverse cummulative distribution function. The inverse cummulative distribution function can be written in different ways which is often discussed in the course Numerical Analysis.</font></div>
 <br>
 
-```python
-#  Generate a uniformly distributed random variable
+```cpp
 
-		u=rand()/(double)RAND_MAX;
-		normInv = NormalCDFInverse(u);
+		u=rand()/(double)RAND_MAX;    //  Generate a uniformly distributed random variable
+		normInv = NormalCDFInverse(u);		
 		normInv=normInv*standardDev-mean;				
 		stockPrice[i]=stockPrice[i]*exp(normInv);
 		smax=max(smax,stockPrice[i]);
@@ -42,7 +41,7 @@ p<sub>t</sub> = max ( m<sub>t</sub> - S<sub>t</sub> , 0 ) , m<sub>t</sub> = max 
 Therefore, we can derive the price as follow, and later find averages of payoffs with numerous times of simulations.</font></div>
 <br>
 
-```python
+```cpp
 
 	//European lookback put
 	stockPrice[i]=max(smax-stockPrice[i],0)*exp(-iRate*tOption);
