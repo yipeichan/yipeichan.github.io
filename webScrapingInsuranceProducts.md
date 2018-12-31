@@ -10,11 +10,11 @@ layout: posts
 
 ## Introduction
 <div class="f"><font color="black">
-This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones. Therefore, I wrote the program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></font></div>
+This program was written because I have to do insurance market investigation weekly at work. Information such as products dicontinued, new products being launched, coverage of policies and so on need to be recorded and later be genreated as a report. In Taiwan it is regulated by law that the loading of certain ages, clause and exception clause be disclosed publicly on the internet. While large insurance companies in Taiwan often provides 100 to 200 insurance contracts, it is not efficient to go through webpages to find new products, or discontinued ones. I thus wrote this program to generate lists weekly to track newly launched/ discontinued product in the insurance market.<br><br></font></div>
 
 ## Algorithm
 <div class="f"><font color="black">
-The program can maily be divided into two parts as follows:<br>
+The program can mainly be divided into two parts as follows,<br>
 <br>
 <font color="black"><b>1. Extracting information from the web</b></font><br>
 The program extract all the names of products available from the site of the targeted insurance company; <br>
