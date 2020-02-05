@@ -4,7 +4,7 @@ layout: posts
 
 <br>
 
-# [_Statistical Learning_](./index.html)
+# [_Statistical Machine Learning_](./index.html)
 <i>Dec 25, 2016</i>
 
 <a href="https://github.com/yipeichan/Statistical-Learning"><b>Link to complete code on Github</b></a>
