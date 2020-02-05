@@ -34,7 +34,7 @@ This article shares a program that can be run weekly to generate lists to track 
 <hr>
 <br>
 <div class="d"><i>Dec 25, 2016</i></div>
-# [_Statistical Learning_](./statisticalLearning.html)   
+# [_Statistical Machine Learning_](./statisticalLearning.html)   
 <div class="d"></div>
 This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course and some relevant papers I read.<br>
 <br>
