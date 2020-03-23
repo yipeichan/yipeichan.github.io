@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
 <br>
-<div class="d"><i>May 25, 2018</i></div>
+<div class="d"><i>Dec 3, 2019</i></div>
 # [_Analysis of HIV Drug Resistance Data_](./HIV.html)   
 <div class="d"></div>
 In this article I used forward selection to determine which mutations of the Human Immunodeficiency Virus Type 1 (HIV-1) are associated with drug resistance .<br>
