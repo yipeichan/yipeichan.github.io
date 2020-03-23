@@ -26,7 +26,7 @@ This article uses logistic regression and the ROC curve to predict the credit ca
 <div class="d"><i>Jan. 20, 2020</i></div>
 # [_Bias-Var Tradeoff & Poly Regression_](./Lab1.html)   
 <div class="d"></div>
-This article investigate the important bias-variance tradeoff in a linear regression setting under squared loss. The framework is from the course Statistical Machine Learning in Columbia University. <br>
+This article investigates the important bias-variance tradeoff in a linear regression setting under squared loss. The framework is from the course, Statistical Machine Learning, at Columbia University. <br>
 <br>
 <br>
 <br>
