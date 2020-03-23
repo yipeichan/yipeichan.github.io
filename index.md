@@ -33,7 +33,7 @@ This article investigate the important bias-variance tradeoff in a linear regres
 <br>
 <hr>
 <br>
-<div class="d"><i>Dec 3, 2019</i></div>
+<div class="d"><i>Dec. 3, 2019</i></div>
 # [_Analysis of HIV Drug Resistance Data_](./HIV.html)   
 <div class="d"></div>
 This article uses ML algorithms-- forward selection -- to determine which mutations of the Human Immunodeficiency Virus Type 1 (HIV-1) are associated with drug resistance.<br>
@@ -53,7 +53,7 @@ This article shares a look-back option pricing program with Monte Carlo Simulati
 <br>
 <hr>
 <br>
-<div class="d"><i>Mar 2, 2018</i></div>
+<div class="d"><i>Mar. 2, 2018</i></div>
 # [_Whole-life Insurance Pricing_](./pricingWholelifeInsurance.html)   
 <div class="d"></div>
 This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
@@ -63,7 +63,7 @@ This article shares a pricing program for an insurance contract whose premiums a
 <br>
 <hr>
 <br>
-<div class="d"><i>Feb 28, 2018</i></div>
+<div class="d"><i>Feb. 28, 2018</i></div>
 # [_Web Scraping Insurance Products_](./webScrapingInsuranceProducts.html)   
 <div class="d"></div>
 This article shares a program that can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.<br>
@@ -73,7 +73,7 @@ This article shares a program that can be run weekly to generate lists to track 
 <br>
 <hr>
 <br>
-<div class="d"><i>Dec 25, 2016</i></div>
+<div class="d"><i>Dec. 25, 2016</i></div>
 # [_Statistical Machine Learning_](./statisticalLearning.html)   
 <div class="d"></div>
 This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course and some relevant papers I read.<br>
@@ -83,7 +83,7 @@ This article shares code scripts and learning notes of the Statistical Learning 
 <br>
 <hr>
 <br>
-<div class="d"><i>Jul 2, 2016</i></div>
+<div class="d"><i>Jul. 2, 2016</i></div>
 # [_Oil Price and Consumption Expenditure_](./oilPriceandConsumptionExpenditure.html)   
 <div class="d"></div>
 This article shares the code script and the thesis I wrote in 2016, discussing the relationship between oil price and consumption expenditure.<br>
