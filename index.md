@@ -4,9 +4,19 @@ layout: default
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Feb. 15, 2020</i></div>
-# [_Titanic Survival Prediction_](./titanic.html)   
+# [_Titanic Survival Prediction_](./Titanic.html)   
 <div class="d"></div>
 This is the legendary Titanic ML competition on Kaggle. I use random forest and Lasso/Ridge Regression to make the survival prediction and compare the error rates among different models. (Will update in the following days) <br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<div class="d"><i>Jan. 20, 2020</i></div>
+# [_Bias-Var Tradeoff & Poly Regression_](./lab1.html)   
+<div class="d"></div>
+This article investigate the important bias-variance tradeoff in a linear regression setting under squared loss. The framework is from the course Statistical Machine Learning in Columbia University. <br>
 <br>
 <br>
 <br>
