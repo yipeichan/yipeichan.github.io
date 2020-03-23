@@ -13,7 +13,7 @@ This is the legendary Titanic ML competition on Kaggle. I use random forest and 
 <br>
 <hr>
 <br>
-# [_Credit Card Default Prediction_](./Titanic.html)   
+# [_Credit Card Default Prediction_](./default.html)   
 <div class="d"></div>
 This article uses logistic regression and ROC curve to predict credit card default rate of clients. I wrote the ROC curve function and compared error rate in using different thresholds to classify default status. <br>
 <br>
