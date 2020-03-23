@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>Dec 3, 2019</i></div>
 # [_Analysis of HIV Drug Resistance Data_](./HIV.html)   
 <div class="d"></div>
-This article shares algorithms of forward selection to determine which mutations of the Human Immunodeficiency Virus Type 1 (HIV-1) are associated with drug resistance .<br>
+This article uses ML algorithms-- forward selection -- to determine which mutations of the Human Immunodeficiency Virus Type 1 (HIV-1) are associated with drug resistance .<br>
 <br>
 <br>
 <br>
