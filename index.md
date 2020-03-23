@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
 <br>
-<div class="d"><i>Feb. 15, 2020</i></div>
+<div class="d"><i>Feb. 3, 2020</i></div>
 # [_Titanic Survival Prediction_](./Titanic.html)   
 <div class="d"></div>
 This is the legendary Titanic ML competition on Kaggle. I use random forest and Lasso/Ridge Regression to make the survival prediction and compare the error rates among different models. (Will update in the following days) <br>
@@ -13,9 +13,10 @@ This is the legendary Titanic ML competition on Kaggle. I use random forest and 
 <br>
 <hr>
 <br>
+<div class="d"><i>Jan. 30, 2020</i></div>
 # [_Credit Card Default Prediction_](./default.html)   
 <div class="d"></div>
-This article uses logistic regression and ROC curve to predict credit card default rate of clients. I wrote the ROC curve function and compared error rate in using different thresholds to classify default status. <br>
+This article uses logistic regression and the ROC curve to predict the credit card default rate of clients. I wrote the ROC curve function and compared the error rate in using different thresholds to classify default status. <br>
 <br>
 <br>
 <br>
