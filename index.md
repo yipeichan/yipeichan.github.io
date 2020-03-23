@@ -3,10 +3,20 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
 <br>
+<div class="d"><i>Feb. 15, 2020</i></div>
+# [_Titanic Survival Prediction_](./HIV.html)   
+<div class="d"></div>
+This is the legendary Titanic ML competition on Kaggle. I use random forest and Lasso/Ridge Regression to make the prediction and compare the error rates of different models. <br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 <div class="d"><i>Dec 3, 2019</i></div>
 # [_Analysis of HIV Drug Resistance Data_](./HIV.html)   
 <div class="d"></div>
-This article uses ML algorithms-- forward selection -- to determine which mutations of the Human Immunodeficiency Virus Type 1 (HIV-1) are associated with drug resistance .<br>
+This article uses ML algorithms-- forward selection -- to determine which mutations of the Human Immunodeficiency Virus Type 1 (HIV-1) are associated with drug resistance.<br>
 <br>
 <br>
 <br>
