@@ -14,7 +14,7 @@ This is the legendary Titanic ML competition on Kaggle. I use random forest and 
 <hr>
 <br>
 <div class="d"><i>Jan. 20, 2020</i></div>
-# [_Bias-Var Tradeoff & Poly Regression_](./lab1.html)   
+# [_Bias-Var Tradeoff & Poly Regression_](./Lab1.html)   
 <div class="d"></div>
 This article investigate the important bias-variance tradeoff in a linear regression setting under squared loss. The framework is from the course Statistical Machine Learning in Columbia University. <br>
 <br>
