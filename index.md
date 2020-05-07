@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>Feb. 3, 2020</i></div>
 # [_Titanic Survival Prediction_](./Titanic.html)   
 <div class="d"></div>
-This is the legendary Titanic ML competition on Kaggle. I use random forest and gradient boosted models to make the survival prediction and compare the error rates among different models. <br>
+This is the legendary Titanic ML competition on Kaggle. I use ridge regression, lusso regression, random forest and gradient boosted models to make the survival prediction and compare the error rates among different models. <br>
 <br>
 <br>
 <br>
