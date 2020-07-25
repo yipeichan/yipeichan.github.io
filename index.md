@@ -93,6 +93,6 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <hr>
 <br>
-Hosted on GitHub &mdash; Theme modified from <a href="https://github.com/orderedlist">orderedlist</a>
+Hosted on GitHub &mdash
 <br>
-© YI-PEI CHAN
+© YI-PEI CHAN. Powered by <a href="https://github.com/orderedlist">orderedlist</a>. 
