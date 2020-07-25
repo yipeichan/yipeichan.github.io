@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing YI-PEI's Projects</i></b></font></font></div></div>
+<div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Feb. 3, 2020</i></div>
 # [_Titanic Survival Prediction_](./Titanic.html)   
