@@ -93,6 +93,6 @@ This article shares the code script and the thesis I wrote in 2016, discussing t
 <br>
 <hr>
 <br>
-Hosted on GitHub &mdash
+Hosted on GitHub 
 <br>
-© YI-PEI CHAN. Powered by <a href="https://github.com/orderedlist">orderedlist</a>. 
+©2020 Yi-Pei Chan. Powered by <a href="https://github.com/orderedlist">orderedlist</a>. 
