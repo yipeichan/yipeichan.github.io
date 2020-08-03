@@ -1,6 +1,6 @@
 title: <p>    <br></p>
 logo: /assets/logo1.jpg
-description: <div class="e"><font color="#9ac293", font size="4.7"><b><i>Welcome to my homepage! </i></b></font></div><br><b><i><font size="4">Yi-Pei Chan</font> has 2 years of Actuarial & Data Analysis experience in insurance, currently pursuing an M.A in Statistics at Columbia University. <p class="b">She is enthu-siastic about math, programming, entrepreneurship and civic engagement.</p></i></b> 
+description: <p class="b"><div class="e"><font color="#9ac293", font size="4.7"><b><i>Welcome to my homepage! </i></b></font></div><br><b><i><font size="4">Yi-Pei Chan</font> has 2 years of Actuarial & Data Analysis experience in insurance, currently pursuing an M.A in Statistics at Columbia University. She is enthu-siastic about math, programming, entrepreneurship and civic engagement.</p></i></b> 
 show_downloads: FALSE
 google_analytics: UA-123794012-1
 theme: jekyll-theme-minimal
