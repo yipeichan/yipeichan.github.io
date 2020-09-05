@@ -56,7 +56,7 @@ This article shares a look-back option pricing program with Monte Carlo Simulati
 <div class="d"><i>Mar. 2, 2018</i></div>
 # [_Whole-life Insurance Pricing_](./pricingWholelifeInsurance.html)   
 <div class="d"></div>
-This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides an endowment, whole-life annuity benefit and Death/ Total Permanent Disability coverage.<br>
+This article shares a pricing program for an insurance contract whose premiums are payable annually for 20 years and provides whole-life annuity benefit, Death/ Total Permanent Disability coverage, and an endowment.<br>
 <br>
 <br>
 <br>
@@ -67,16 +67,6 @@ This article shares a pricing program for an insurance contract whose premiums a
 # [_Web Scraping Insurance Products_](./webScrapingInsuranceProducts.html)   
 <div class="d"></div>
 This article shares a program that can be run weekly to generate lists to track newly launched/ discontinued products in the insurance market.<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-<br>
-<div class="d"><i>Dec. 25, 2016</i></div>
-# [_Statistical Machine Learning_](./statisticalLearning.html)   
-<div class="d"></div>
-This article shares code scripts and learning notes of the Statistical Learning Course I took on the Stanford online open course and some relevant papers I read.<br>
 <br>
 <br>
 <br>
