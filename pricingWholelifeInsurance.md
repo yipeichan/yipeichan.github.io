@@ -11,41 +11,41 @@ layout: posts
 <br>
 ## Introduction
 <div class="f"><font color="black">
-This program was modified from one of the insurance products that I devised. It launched market on November 30<sup>th</sup> 2017, and had pretty good sales record. The insurance contract has premium payment peiord of 20 years and provides benefits as follows,<br><br>
+This program was modified from one of the insurance products that I devised. It launched the market on November 30<sup>th</sup> 2017, and had a pretty good sales record. The insurance contract has a premium payment period of 20 years and provides benefits as follows,<br><br>
      
 <font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
-- during the premium payment peroid (<=the 20<sup>th</sup> policy year):<br>
-  max(policy value, 1.06 times total premium paid, 3 times of amount insured)<br>
+- during the premium payment period (<=the 20<sup>th</sup> policy year):<br>
+  max(policy value, 1.06 times the total premium paid, 3 times of amount insured)<br>
 - after the premium payment period (>=the 21<sup>st</sup> policy year):<br>
-  max(policy value, 1.06 times total premium paid, 1 time of amount insured)<br><br>
+  max(policy value, 1.06 times the total premium paid, 1 time of amount insured)<br><br>
 
 <font color="black"><b>2. Life annuity:</b></font><br>
 - payable annually <br>
-- during the premium payment peroid ( <=the 20<sup>th</sup> policy year):<br>
+- during the premium payment period ( <=the 20<sup>th</sup> policy year):<br>
   5% of the premium<br>
 - after the premium payment period ( >=the 21<sup>st</sup> policy year):<br>
   50% of the premium<br><br>
 
 <font color="black"><b>3. Endowment:</b></font><br>
-When the policy holder reaches age 105, the endowment is paid as 1.06 times the total premium paid<br><br>
+When the policyholder reaches age 105, the endowment is paid as 1.06 times the total premium paid<br><br>
 
-The motality rate was based on the Fifth Life Experience Table of Taiwan Life Insurance Industry and proveided as a csv file in the github project link page.</font> 
+The mortality rate was based on the Fifth Life Experience Table of Taiwan Life Insurance Industry and provided as a CSV file in the Github project link page.</font> 
 </div>
 <br>
 ## An Insurance Policy Catered to Human Life Cycle
 <div class="f"><font color="black">
-The main target client group of this contract are people aged between 20 to 55. People in such age range are often those who bring home the backon; they go out to work, on business trevels frequently, which exposed them to higher risks on streets or abroad. Once accidents strike, he/she may lose the ability to work, affecting financial situation of entire family. Therefore during the premium payment period, which is 20 years, the policy provides high leverage of death coverage compared to the amount of premium paid. After 20 years, it would be the time of retirment, and the policy provides 50% of the annual premium until the insured reaches age 105. The annuity helps policy beneficiaries prevent money shortage in face of prolonged life expectancy.<br><br></font></div>
+The main target client group of this contract are people aged between 20 to 55. People in such age range are often those who bring home the bacon; they go out to work, on business travels frequently, which exposed them to higher risks on streets or abroad. Once accidents strike, he/she may lose the ability to work, affecting the financial situation of the entire family. Therefore during the premium payment period, which is 20 years, the policy provides high leverage of death coverage compared to the amount of premium paid. After 20 years, it would be the time of retirement, and the policy provides 50% of the annual premium until the insured reaches age 105. The annuity helps policy beneficiaries prevent money shortage in face of prolonged life expectancy.<br><br></font></div>
 
 ![financial-plan](https://user-images.githubusercontent.com/24948460/49664603-4e8d0e80-fa8d-11e8-8305-201c7a5ae0c7.png)<font size="xx-small">(photo from omtatsat.tk)</font>
 
 <br>
 ## Pricing Algorithm
 <div class="f"><font color="black">
-In addition to reading the mortality rate from csv at the beginning, the pricing program can be mainly devided into two parts: the benefit and the present value discounting process.
+In addition to reading the mortality rate from CSV at the beginning, the pricing program can be mainly divided into two parts: the benefit and the present value discounting process.
 <br>
 <br>
 <font color="black"><b>1. Benefits</b></font><br>
-The benefit part is where I set the amount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefit part is written as follows,<br><br></font></div>
+The benefits part is where I set the amount of coverage should death or total disability occur, and the amount of annuity to give out to the beneficiary upon the existence of the insured. The benefits part is written as follows,<br><br></font></div>
      
 ```python
 # benefit of death/ total disability coverage and annuity payment 
@@ -75,7 +75,7 @@ The benefit part is where I set the amount of coverage should death or total dis
 ```
 <div class="f"><font color="black">   
 <font color="black"><b>2. Discounting the Insurance Benefits</b></font><br>
-Using backwards recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.<br><br></font></div>
+Using backward recursion, the program can generate the expected present value of the benefit outgo, which is the expected present value of the net premium income.<br><br></font></div>
 
 ```python
 # discounting the expected value of death/ total disability coverage and annuity payment 
@@ -123,7 +123,7 @@ x: age insured<br>
 
 ## Pricing Program Applications
 <div class="f"><font color="black">
-The program starts with asking you to enter information about the age, loading and the sex you want to test. The loading is the markup of net premium, which is one source of profits that insurance companies earn, and most of the time the source of agent commissions. After entering the information you want to know, the program would demonstrate the asymptotic process and generate the result if the premium converges under the conditions you entered. 
+The program starts with asking you to enter information about the age, loading ,and the sex you want to test. The loading is the markup of net premium, which is one source of profits that insurance companies earn, and most of the time the source of agent commissions. After entering the information you want to know, the program would demonstrate the asymptotic process and generate the result if the premium converges under the conditions you entered. 
 <br>
 <br>
 For example, to price the insured who is
