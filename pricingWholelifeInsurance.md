@@ -11,19 +11,19 @@ layout: posts
 <br>
 ## Introduction
 <div class="f"><font color="black">
-This program was modified from one of the insurance products that I devised. It launched the market on November 30<sup>th</sup> 2017, and had a pretty good sales record. The insurance contract has a premium payment period of 20 years and provides benefits as follows,<br><br>
+This program was modified from one of the insurance products that I devised. It launched the market on November 30<sup>th</sup> 2017, and had a pretty good sales record. The insurance contract has a premium paying term of 20 years and provides benefits as follows,<br><br>
      
 <font color="black"><b>1. Death/ Total disability benefit:</b></font><br>
-- during the premium payment period (<=the 20<sup>th</sup> policy year):<br>
+- during the premium paying term (<=the 20<sup>th</sup> policy year):<br>
   max(policy value, 1.06 times the total premium paid, 3 times of amount insured)<br>
-- after the premium payment period (>=the 21<sup>st</sup> policy year):<br>
+- after the premium paying term (>=the 21<sup>st</sup> policy year):<br>
   max(policy value, 1.06 times the total premium paid, 1 time of amount insured)<br><br>
 
 <font color="black"><b>2. Life annuity:</b></font><br>
 - payable annually <br>
-- during the premium payment period ( <=the 20<sup>th</sup> policy year):<br>
+- during the premium paying term ( <=the 20<sup>th</sup> policy year):<br>
   5% of the premium<br>
-- after the premium payment period ( >=the 21<sup>st</sup> policy year):<br>
+- after the premium paying term ( >=the 21<sup>st</sup> policy year):<br>
   50% of the premium<br><br>
 
 <font color="black"><b>3. Endowment:</b></font><br>
