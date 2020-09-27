@@ -95,7 +95,7 @@ Using backward recursion, the program can generate the expected present value of
 <br>
 ## Mathematical Statement
 <div class="f"><font color="black">Writing the expected present values of the benefits provided in this policy in mathematical equations would be as follows,<br>
-n: premium payment period<br> 
+n: premium paying term<br> 
 i: assumed interest rate<br> 
 x: age insured<br>
 <br></font>
