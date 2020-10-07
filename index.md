@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
-<div class="d"><i>Jul. 8, 2020</i></div>
+<div class="d"><i>Jun. 8, 2020</i></div>
 # [_Classify Images With Deep Learning_](./mnist.html)   
 <div class="d"></div>
 This article uses deep learning to predict the numbers in the images from the MNIST Dataset. I used Tensorflow Keras, setting the activation function as sigmoid function, and output function as softmax function. <br>
