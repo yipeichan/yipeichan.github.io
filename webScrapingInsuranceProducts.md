@@ -94,25 +94,25 @@ else:
 <br>
 <br>
 <font color="black"><b>2. If you want to obtain the updated product lists, enter y, otherwise n (see point 4)</b></font><br>
-After entering y, input the date and the date will automatically be added to csv files (csv files be seperated according to the category of insurances)<br><br>
+After entering y, input the date, and the date will automatically be added to CSV files (CSV files be separated according to the category of insurances)<br><br>
 <img width="1099" alt="demo2" src="https://user-images.githubusercontent.com/24948460/46902904-e2b07e80-ceff-11e8-81c5-735ece2ffca6.png">
 <br>
 <br>
-<font color="black"><b>3. Enter the dates of the files to be compared, and the result would display the products new launched/ discontinued or sales channel changes within the period. </b></font><br><br>
+<font color="black"><b>3. Enter the dates of the files to be compared, and the result would display the products newly launched/ discontinued or sales channel changes within the period. </b></font><br><br>
 <img width="851" alt="demo3" src="https://user-images.githubusercontent.com/24948460/46902908-ea702300-ceff-11e8-9dcc-f5ac2eb5bf00.png">
 <br>
 <br>
-<font color="black"><b>4. (continued with point 2) user can directly compare lists of two dates or simply two csv files without renewing product lists.</b></font><br>
+<font color="black"><b>4. (continued with point 2) Users can directly compare lists of two dates or simply two CSV files without renewing product lists.</b></font><br>
 To compare all lists (i.e all kinds of insurance) of two dates, enter 1  <br>
-To compare only two csv files, enter 2 (see point 6) <br><br>
+To compare only two CSV files, enter 2 (see point 6) <br><br>
 <img width="1138" alt="demo4" src="https://user-images.githubusercontent.com/24948460/46902909-ea702300-ceff-11e8-9c3f-d35bd38c2eee.png">
 <br>
 <br>
-<font color="black"><b>5. The result of comparison would be displayed</b></font><br><br>
+<font color="black"><b>5. The result of the comparison would be displayed</b></font><br><br>
 <img width="1131" alt="demo5" src="https://user-images.githubusercontent.com/24948460/46902910-eb08b980-ceff-11e8-93f3-9022ab6e2a61.png">
 <br>
 <br>
-<font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and Tthe result of comparison would be displayed</b></font><br><br>
+<font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and the result of the comparison would be displayed</b></font><br><br>
 <img width="1076" alt="demo6" src="https://user-images.githubusercontent.com/24948460/46902966-d37e0080-cf00-11e8-8fc5-846aafc5cd93.png">
 </font>
 </div>
