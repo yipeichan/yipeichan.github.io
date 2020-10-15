@@ -93,8 +93,8 @@ else:
 <img width="1226" alt="demo1" src="https://user-images.githubusercontent.com/24948460/46902893-ada42c00-ceff-11e8-92b2-a18f776b0391.png">
 <br>
 <br>
-<font color="black"><b>2. If you want to obtain the updated product lists, enter y, otherwise n (see point 4)</b></font><br>
-After entering y, input the date, and the date will automatically be added to CSV files (CSV files be separated according to the category of insurances)<br><br>
+<font color="black"><b>2. If you want to obtain the updated product lists, enter y, otherwise n (see point 4)</font><br>
+After entering y, input the date, and the date will automatically be added to CSV files (CSV files be separated according to the category of insurances)</b><br><br>
 <img width="1099" alt="demo2" src="https://user-images.githubusercontent.com/24948460/46902904-e2b07e80-ceff-11e8-81c5-735ece2ffca6.png">
 <br>
 <br>
@@ -102,9 +102,9 @@ After entering y, input the date, and the date will automatically be added to CS
 <img width="851" alt="demo3" src="https://user-images.githubusercontent.com/24948460/46902908-ea702300-ceff-11e8-9dcc-f5ac2eb5bf00.png">
 <br>
 <br>
-<font color="black"><b>4. (continued with point 2) Users can directly compare lists of two dates or simply two CSV files without renewing product lists.</b></font><br>
+<font color="black"><b>4. (continued with point 2) Users can directly compare lists of two dates or simply two CSV files without renewing product lists.</font><br>
 To compare all lists (i.e all kinds of insurance) of two dates, enter 1  <br>
-To compare only two CSV files, enter 2 (see point 6) <br><br>
+To compare only two CSV files, enter 2 (see point 6) </b><br><br>
 <img width="1138" alt="demo4" src="https://user-images.githubusercontent.com/24948460/46902909-ea702300-ceff-11e8-9c3f-d35bd38c2eee.png">
 <br>
 <br>
