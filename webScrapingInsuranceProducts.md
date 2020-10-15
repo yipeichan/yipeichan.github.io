@@ -98,7 +98,7 @@ After entering y, input the date, and the date will automatically be added to CS
 <img width="1099" alt="demo2" src="https://user-images.githubusercontent.com/24948460/46902904-e2b07e80-ceff-11e8-81c5-735ece2ffca6.png">
 <br>
 <br>
-<font color="black"><b>3. Enter the dates of the files to be compared, and the result would display the products newly launched/ discontinued or sales channel changes within the period. </b></font><br><br>
+<font color="black"><b>3. Enter the dates of the files to be compared, and the result would display the products newly launched/ discontinued or sales channel changes within the period. From the example below, there was no product newly launched or discontinued within 2018.10.13 and 2018.10.03. </b></font><br><br>
 <img width="851" alt="demo3" src="https://user-images.githubusercontent.com/24948460/46902908-ea702300-ceff-11e8-9dcc-f5ac2eb5bf00.png">
 <br>
 <br>
