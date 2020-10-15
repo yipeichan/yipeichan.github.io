@@ -108,7 +108,7 @@ To compare only two CSV files, enter 2 (see point 6) <br><br>
 <img width="1138" alt="demo4" src="https://user-images.githubusercontent.com/24948460/46902909-ea702300-ceff-11e8-9c3f-d35bd38c2eee.png">
 <br>
 <br>
-<font color="black"><b>5. The result of the comparison would be displayed</b></font><br><br>
+<font color="black"><b>5. The result of the comparison would be displayed. From the example below, we can know that there was 1 product newly launched and 1 product discontinued within 2018.07.16 and 2018.07.09.</b></font><br><br>
 <img width="1131" alt="demo5" src="https://user-images.githubusercontent.com/24948460/46902910-eb08b980-ceff-11e8-93f3-9022ab6e2a61.png">
 <br>
 <br>
