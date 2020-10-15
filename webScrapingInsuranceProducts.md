@@ -10,7 +10,7 @@ layout: posts
 
 ## Introduction
 <div class="f"><font color="black">
-This program was written because I have to do insurance market investigation weekly at work. Information such as products discontinued, new products being launched, coverage of the newly launched policies, and so on need to be recorded and later be generated as a report. In Taiwan, it is regulated by law that the clause, loading of certain ages, and exception clauses be disclosed publicly on the internet. While large insurance companies in Taiwan often provide 100 to 200 insurance contracts, it is not efficient to go through webpages manually to find new products or discontinued ones. I thus wrote this program to automatically generate reports weekly to track newly launched/ discontinued products in the insurance market.<br><br></font></div>
+This program was written because I have to do insurance market investigation weekly at work. Information such as products discontinued, new products being launched, coverage of the newly launched policies, and so on need to be recorded and later be generated as a report. In Taiwan, it is regulated by law that the clause, loading of certain ages, and exception clauses should be disclosed publicly on the internet. While large insurance companies in Taiwan often provide 100 to 200 insurance contracts, it is not efficient to go through webpages manually to find new products or discontinued ones. I thus wrote this program to automatically generate reports weekly to track newly launched/ discontinued products in the insurance market.<br><br></font></div>
 
 ## Algorithm
 <div class="f"><font color="black">
