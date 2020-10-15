@@ -56,8 +56,8 @@ The program extracts all the names of products available from the site of the ta
 ```
 
 <div class="f"><font color="black">
-<font color="black"><b>2. Comparing csv lists</b></font><br>
-The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been luanched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period. <br><br></font></div>
+<font color="black"><b>2. Comparing CSV lists</b></font><br>
+The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been launched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period. <br><br></font></div>
 
 ```python
 
