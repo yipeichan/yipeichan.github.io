@@ -13,6 +13,7 @@ In this article, I wrote a two layer neural network from scratch, and applied th
 <br>
 <hr>
 <br>
+<div class="d"><i>Sep. 2, 2020</i></div>
 # [_Logistic Regression & Softmax Classifier with SGD_](./basic_classifiers.html)   
 <div class="d"></div>
 In this article, I wrote two classifiers-- Logistic regression classifier and Softmax classifier with stochastic gradient descent, and applied them to the CIFAR-10 dataset. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
