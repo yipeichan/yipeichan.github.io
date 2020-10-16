@@ -112,9 +112,8 @@ To compare only two CSV files, enter 2 (see point 6) </b><br><br>
 <img width="1131" alt="demo5" src="https://user-images.githubusercontent.com/24948460/46902910-eb08b980-ceff-11e8-93f3-9022ab6e2a61.png">
 <br>
 <br>
-<font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and the result of the comparison would be displayed </b></font><br><br>
+<font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and the result of the comparison would be displayed </b></font><br><br></div>
 <img width="1076" alt="demo6" src="https://user-images.githubusercontent.com/24948460/46902966-d37e0080-cf00-11e8-8fc5-846aafc5cd93.png">
-</div>
 <br>
 <br>
 
