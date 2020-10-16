@@ -104,7 +104,7 @@ After entering y, input the date, and the date will automatically be added to CS
 <br>
 <font color="black"><b>4. (continued with point 2) Users can directly compare lists of two dates or simply two CSV files without renewing product lists.<br>
 To compare all lists (i.e all kinds of insurance) of two dates, enter 1  <br>
-To compare only two CSV files, enter 2 (see point 6) </font></b><br><br>
+To compare only two CSV files, enter 2 (see point 6) </b></font><br><br>
 <img width="1138" alt="demo4" src="https://user-images.githubusercontent.com/24948460/46902909-ea702300-ceff-11e8-9c3f-d35bd38c2eee.png">
 <br>
 <br>
@@ -112,7 +112,7 @@ To compare only two CSV files, enter 2 (see point 6) </font></b><br><br>
 <img width="1131" alt="demo5" src="https://user-images.githubusercontent.com/24948460/46902910-eb08b980-ceff-11e8-93f3-9022ab6e2a61.png">
 <br>
 <br>
-<font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and the result of the comparison would be displayed </font></b><br><br>
+<font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and the result of the comparison would be displayed </b></font><br><br>
 <img width="1076" alt="demo6" src="https://user-images.githubusercontent.com/24948460/46902966-d37e0080-cf00-11e8-8fc5-846aafc5cd93.png">
 </div>
 <br>
