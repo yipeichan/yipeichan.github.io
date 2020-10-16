@@ -16,7 +16,7 @@ This program was written because I have to do insurance market investigation wee
 <div class="f"><font color="black">
 The program can mainly be divided into two parts as follows,<br>
 <br>
-<font color="black"><b>1. Extracting information from the web</b></font><br>
+<b>1. Extracting information from the web</b><br>
 The program extracts all the names of products available from the site of the targeted insurance company; it then exports the information into separated CSV files according to the category of insurance (ex. life, health, personal injury, annuities, group insurance, etc) with the inputted date added at the end of the name of the CSV files. <br><br></font></div>
 
 ```python
@@ -56,7 +56,7 @@ The program extracts all the names of products available from the site of the ta
 ```
 
 <div class="f"><font color="black">
-<font color="black"><b>2. Comparing CSV lists</b></font><br>
+<b>2. Comparing CSV lists</b><br>
 The program can compare product lists of two designated dates(ex. all types of insurances of 20180716 vs those of 20180709 ) and produce outcomes of new products that had been launched (i.e newly posted on the site)and what had been discontinued (i.e no longer on the site) within the specified period. <br><br></font></div>
 
 ```python
