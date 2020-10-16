@@ -22,9 +22,9 @@ This program was modified from one of the insurance products that I devised. It 
 <font color="black"><b>2. Life annuity:</b></font><br>
 - payable annually <br>
 - during the premium paying term ( <=the 20<sup>th</sup> policy year):<br>
-  5% of the premium<br>
+  5% of the annual premium<br>
 - after the premium paying term ( >=the 21<sup>st</sup> policy year):<br>
-  50% of the premium<br><br>
+  50% of the annual premium<br><br>
 
 <font color="black"><b>3. Endowment:</b></font><br>
 When the policyholder reaches age 105, the endowment is paid as 1.06 times the total premium paid. And the policy ends.<br><br>
