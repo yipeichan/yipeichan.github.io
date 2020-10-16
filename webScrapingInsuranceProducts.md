@@ -114,7 +114,6 @@ To compare only two CSV files, enter 2 (see point 6) </font></b><br><br>
 <br>
 <font color="black"><b>6. (continued with point 4) Enter the two file names to be compared, and the result of the comparison would be displayed </font></b><br><br>
 <img width="1076" alt="demo6" src="https://user-images.githubusercontent.com/24948460/46902966-d37e0080-cf00-11e8-8fc5-846aafc5cd93.png">
-</font>	
 </div>
 <br>
 <br>
