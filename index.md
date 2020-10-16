@@ -3,6 +3,16 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
+<div class="d"><i>Sep. 2, 2020</i></div>
+# [_Logistic Regression & Softmax Classifier with SGD_](./basic_classifiers.html)   
+<div class="d"></div>
+In this article, I wrote two classifiers-- Logistic regression classifier and Softmax classifier with stochastic gradient descent, and applied them to the CIFAR-10 dataset. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 <div class="d"><i>Jun. 8, 2020</i></div>
 # [_Classify Images With Deep Learning_](./mnist.html)   
 <div class="d"></div>
