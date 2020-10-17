@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>Sep. 12, 2020</i></div>
 # [_Multilayer Perceptron (MLP)_](./mlp_numpy.html)   
 <div class="d"></div>
-In this article, I wrote a two layer neural network from scratch, and applied them to the CIFAR-10 dataset. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
+In this article, I wrote a two-layer neural network from scratch and applied it to the CIFAR-10 dataset. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
 <br>
 <br>
 <br>
