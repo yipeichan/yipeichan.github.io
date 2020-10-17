@@ -14248,7 +14248,7 @@ a.anchor-link {
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Assignment-1,-Task-2:-Multilayer-Perceptron-(MLP)">Assignment 1, Task 2: Multilayer Perceptron (MLP)<a class="anchor-link" href="#Assignment-1,-Task-2:-Multilayer-Perceptron-(MLP)">&#182;</a></h1><p>This is the second part of the assignment. You will get to know how to build basic fully connected neural network.</p>
+<h1 id="Assignment-2:-Multilayer-Perceptron-(MLP)">Assignment 2: Multilayer Perceptron (MLP)<a class="anchor-link" href="#Assignment-2:-Multilayer-Perceptron-(MLP)">&#182;</a></h1><p>This is the second part of the assignment. You will get to know how to build basic fully connected neural network.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -14372,7 +14372,7 @@ Development data shape (100,)
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h2 id="Part-1:-Basic-layers">Part 1: Basic layers<a class="anchor-link" href="#Part-1:-Basic-layers">&#182;</a></h2><p>In this part, all the functions will be created from scratch using numpy for better understanding. (In the next task, you will be introduced to built in layers from tensorflow.)</p>
-<h3 id="Create-basic-layer-functions">Create basic layer functions<a class="anchor-link" href="#Create-basic-layer-functions">&#182;</a></h3><p><span style="color:red"><strong>TODO</strong></span>: Complete functions <strong>affine_forward</strong>, <strong>affine_backward</strong> in <strong>./utils/layer_funcs.py</strong>.</p>
+<h3 id="Create-basic-layer-functions">Create basic layer functions<a class="anchor-link" href="#Create-basic-layer-functions">&#182;</a></h3><p>Complete functions <strong>affine_forward</strong>, <strong>affine_backward</strong></p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -14897,10 +14897,8 @@ $$\mathbf{O} = activation(\mathbf{W} \times \mathbf{X} + \mathbf{b})$$<p>For thi
         <span class="n">dW</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros_like</span><span class="p">(</span><span class="n">W</span><span class="p">)</span>
         <span class="n">db</span> <span class="o">=</span> <span class="n">np</span><span class="o">.</span><span class="n">zeros_like</span><span class="p">(</span><span class="n">b</span><span class="p">)</span>
         <span class="c1">################################################</span>
-        <span class="c1"># TODO: derive the gradients wrt to X, W, b    # </span>
+        <span class="c1"># derive the gradients wrt to X, W, b    # </span>
         <span class="c1"># Use layer_funcs.py.                          #</span>
-        <span class="c1">################################################</span>
-
         
         <span class="n">dX</span><span class="p">,</span> <span class="n">dW</span><span class="p">,</span> <span class="n">db</span> <span class="o">=</span> <span class="n">affine_backward</span><span class="p">(</span><span class="n">dout</span> <span class="o">=</span> <span class="n">dout</span><span class="p">,</span> <span class="n">x</span> <span class="o">=</span> <span class="n">X</span><span class="p">,</span> <span class="n">w</span> <span class="o">=</span> <span class="n">W</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="n">b</span><span class="p">)</span>
         
@@ -15294,8 +15292,8 @@ Is db correct? True
         <span class="n">reg</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">reg</span>
         <span class="n">grads</span> <span class="o">=</span> <span class="p">[</span><span class="n">grad</span> <span class="o">+</span> <span class="n">reg</span><span class="o">*</span><span class="n">params</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span> <span class="n">grad</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">grads</span><span class="p">)]</span>
         <span class="c1">###################################################</span>
-        <span class="c1"># TODO: Use SGD or SGD with momentum to update    #</span>
-        <span class="c1"># variables in layer1 and layer2.                 #</span>
+        <span class="c1">#Use SGD or SGD with momentum to update    </span>
+        <span class="c1"># variables in layer1 and layer2.                 </span>
  
 <span class="c1">#         print(len(grads))</span>
         
@@ -15651,7 +15649,8 @@ test acc: 0.4859
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p style='color:red'><strong>TODO: Plot training and validation accuracy history of each epoch</strong></p>
+<p>Plot training and validation accuracy history of each epoch&lt;/strong&gt;&lt;/p&gt;</p>
+
 </div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
@@ -15959,22 +15958,8 @@ test acc: 0.5114
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p style='color:red'><strong>TODO</strong></p>
+<h2 id="plot-training-and-validation-accuracy-of-your-best-model">plot training and validation accuracy of your best model<a class="anchor-link" href="#plot-training-and-validation-accuracy-of-your-best-model">&#182;</a></h2>
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[16]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">## plot training and validation accuracy of your best model</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
