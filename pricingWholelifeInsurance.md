@@ -27,7 +27,7 @@ This program was modified from one of the insurance products that I devised. It 
   50% of the annual premium<br><br>
 
 <font color="black"><b>3. Endowment:</b></font><br>
-When the policyholder reaches age 105, the endowment is paid as 1.06 times the total premium paid. And the policy ends.<br><br>
+When the insured reaches age 105, the endowment is paid as 1.06 times the total premium paid. And the policy ends.<br><br>
 
 The mortality rate was based on the Fifth Life Experience Table of Taiwan Life Insurance Industry and provided as a CSV file in the Github project link page.</font> 
 </div>
