@@ -16,7 +16,7 @@ In this article, I compared the performance of DBScan and MeanShift algorithms o
 <div class="d"><i>Sep. 13, 2020</i></div>
 # [_MLP Tensforflow & t-SNE_](./mlp_tensorflow.html)   
 <div class="d"></div>
-In this task, I created the same MLP network that I created in the previous article, but with tensforflow library this time. Also, I experimented with t-SNE in visualizing high-dimensional data in 2D for CIFAR10. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
+In this task, I created the same MLP network that I created in the previous article, but with Tensforflow library this time. Also, I experimented with t-SNE in visualizing high-dimensional data in 2D for CIFAR10. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
 <br>
 <br>
 <br>
