@@ -4,6 +4,16 @@ layout: default
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Sep. 12, 2020</i></div>
+# [_Multilayer Perceptron (MLP)_](./mlp_tensorflow.html)   
+<div class="d"></div>
+In this task, I created the same MLP network that I created in the previous article, but with tensforflow library this time. Also, I experimented with t-SNE in visualizing high-dimensional data in 2D for CIFAR10. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<div class="d"><i>Sep. 12, 2020</i></div>
 # [_Multilayer Perceptron (MLP)_](./mlp_numpy.html)   
 <div class="d"></div>
 In this article, I wrote a two-layer neural network from scratch and applied it to the CIFAR-10 dataset. The notebook is one of the assignments of the Deep Learning Course at Columbia University.  <br>
