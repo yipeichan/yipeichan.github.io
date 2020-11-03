@@ -3,6 +3,16 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
+<div class="d"><i>Sep. 30, 2020</i></div>
+# [_DBScan v.s. MeanShift & Adam v.s. Adagrad_](./advancedML.html)   
+<div class="d"></div>
+In this article, I compared the performance of DBScan and MeanShift algorithms on specially generated datasets. In addition, I examine the performance of two popular gradient-based optimization algorithms Adam & Adagrad by writing them from scratch. The notebook is based on one of the assignments of the Advanced Machine Learning Course at Columbia University.  <br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 <div class="d"><i>Sep. 13, 2020</i></div>
 # [_MLP Tensforflow & t-SNE_](./mlp_tensorflow.html)   
 <div class="d"></div>
