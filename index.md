@@ -3,6 +3,17 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
+<div class="d"><i>Oct. 1, 2020</i></div>
+# [_Convolutional Neural Network (CNN)_](./task3_cnn.html)   
+<div class="d"></div>
+In contrast to the Multi-Layer Perceptron (ML) or fully-connected (FC) nets, Convolutional Neural Networks are a more powerful tool often used in the field of computer vision. In this article, I created a CNN using Tensorflow. The notebook is one of the assignments of the Deep Learning Course at Columbia University. 
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 <div class="d"><i>Sep. 30, 2020</i></div>
 # [_DBScan v.s. MeanShift & Adam v.s. Adagrad_](./advancedML.html)   
 <div class="d"></div>
