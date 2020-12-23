@@ -4,7 +4,7 @@ layout: default
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Dec. 10, 2020</i></div>
-# [_Deep Reinforcement Learning for MiniGrid_](./task3_cnn.html)   
+# [_Deep Reinforcement Learning for MiniGrid_](./AdvML_deepRL.pdf)   
 <div class="d"></div>
 In this project I studied the application of deep reinforcement learning (DRL) in solving problems in the MiniGrid gym environment and a classic control problem CartPole. Specifically, I employed the proximal policy optimization (PPO) algorithm which is a modified version of actor-critic policy gradient method. I choose two testing environments from the MiniGrid environment and the CartPole environment from OpenAI Gym to verify my implementations. 
 <br>
