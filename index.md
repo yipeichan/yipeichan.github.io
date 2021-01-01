@@ -14,7 +14,7 @@ In this report, we investigated recent works in using Bayesian Convolutional Neu
 <br>
 <hr>
 <br>
-<div class="d"><i>Dec. 20, 2020</i></div>
+<div class="d"><i>Dec. 18, 2020</i></div>
 # [_Residual Attention Network for Image Classification_](./Final_report_Yi_Pei_Chan.pdf)   
 <div class="d"></div>
 In this work, we summarized the concepts and methods done in the original paper of Wang et al. in 2017 and reviewed related influential literature. We further reproduced the model and evaluated the performance of the model on CIFAR-10 dataset, where we achieved 84.85% of test accuracy. At the end of the paper, we discussed possible reasons for discrepancies in results between our model and those of the original paper. We also provided promising future works that can potentially improve the model performance in the original paper.
