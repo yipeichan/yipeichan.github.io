@@ -3,6 +3,17 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
+<div class="d"><i>Dec. 20, 2020</i></div>
+# [_Bayesian Convolutional Neural Networks with Variational Inference_](./BayesianCNN_Yi_Pei_Chan.pdf)   
+<div class="d"></div>
+In this report, we investigated recent works in using Bayesian Convolutional Neural Networks with variational inference to perform image classification tasks. Based on ideas introduced by Shridhar et al. in 2019, we reproduced the Bayesian LeNet model and tested the performance of our network on image classification tasks with MNIST, CIFAR-10, and CIFAR-100 datasets. We as well compared the validation accuracies generated with Bayesian approach to those generated with frequentist inference under the LeNet architecture. At the end of the paper, we discussed possible reasons for the discrepancies and provided promising future works that can potentially improve the model performance in the original paper.
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 <div class="d"><i>Dec. 10, 2020</i></div>
 # [_Deep Reinforcement Learning for MiniGrid_](./AdvML_deepRL.pdf)   
 <div class="d"></div>
