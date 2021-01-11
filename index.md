@@ -3,6 +3,17 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
+<div class="d"><i>Jan. 11, 2021</i></div>
+# [_Motor Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
+<div class="d"></div>
+This is my AIG Interview Presentation.
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
 <div class="d"><i>Dec. 20, 2020</i></div>
 # [_Bayesian Convolutional Neural Networks with Variational Inference_](./BayesianCNN_Yi_Pei_Chan.pdf)   
 <div class="d"></div>
