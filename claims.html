@@ -740,7 +740,7 @@ summary(poissonglm)</code></pre>
 ## 
 ## Number of Fisher Scoring iterations: 6</code></pre>
 <p><br /> <br /></p>
-<p>The dispersion Test tests the null hypothesis of equidispersion in Poisson GLMs against the alternative of overdispersion and/or underdispersion. Overdispersion corresponds to alpha &gt; 0 and underdispersion to alpha &lt; 0. Though the null hypothesis is rejected and the test confirms the dispersion, but the Alpha value very close to zero suggests that over-dispersion may not be a serious concern here.</p>
+<p>The dispersion Test tests the null hypothesis of equidispersion in Poisson GLMs against the alternative of overdispersion and/or underdispersion. Overdispersion corresponds to alpha &gt; 0 and underdispersion to alpha &lt; 0. Though the null hypothesis is rejected and the test confirms the dispersion, but the Alpha value is very close to zero suggesting that over-dispersion may not be a serious concern here.</p>
 <pre class="r"><code># Test for dispersion
 dispersiontest(poissonglm,trafo=1)</code></pre>
 <pre><code>## 
@@ -757,7 +757,7 @@ dispersiontest(poissonglm,trafo=1)</code></pre>
 <p><br /> <br /></p>
 </div>
 <div id="gradient-boosting-model" class="section level4">
-<h4>3.3 Gradient Boosting Model</h4>
+<h4>3.2 Gradient Boosting Model</h4>
 <pre class="r"><code>set.seed(0)
 boost.train=gbm(ClaimNb ~ offset(log(Exposure)) + VehPower + VehAge + DrivAge + BonusMalus
               + VehBrand + VehGas + Density + Region + Area , data = data[data$data==&quot;train&quot;,],
