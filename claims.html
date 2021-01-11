@@ -12,7 +12,7 @@
 
 <meta name="author" content=" Yi-Pei Chan" />
 
-<meta name="date" content="2020-01-11" />
+<meta name="date" content="2021-01-11" />
 
 <title> AIG Interview Presentation  Third-Party Liability Claims Analysis and Prediction</title>
 
@@ -365,7 +365,7 @@ summary {
 
 <h1 class="title toc-ignore"><br />AIG Interview Presentation <br />Third-Party Liability Claims Analysis and Prediction</h1>
 <h4 class="author"><br />Yi-Pei Chan</h4>
-<h4 class="date">Jan. 11, 2020</h4>
+<h4 class="date">Jan. 11, 2021</h4>
 
 </div>
 
@@ -776,8 +776,8 @@ summary(boost.train)</code></pre>
 ## Area             Area  2.804914</code></pre>
 </div>
 </div>
-<div id="final-validation" class="section level2">
-<h2>4. Final Validation</h2>
+<div id="final-validation" class="section level3">
+<h3>4. Final Validation</h3>
 <pre class="r"><code>pred.glm &lt;- predict(poissonglm, data[(data$data == &quot;test&quot;),c(3,4,5,6,7,8,9,10,11,12)], type = &quot;response&quot;)
 pred.glm &lt;- as.integer(round(pred.glm))
 
