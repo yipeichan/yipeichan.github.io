@@ -6,7 +6,6 @@ layout: default
 <div class="d"><i>Jan. 11, 2021</i></div>
 # [_Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
 <div class="d"></div>
-This is my AIG Interview Presentation.
 <br>
 <br>
 <br>
