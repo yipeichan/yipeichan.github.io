@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>Jan. 11, 2021</i></div>
 # [_Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
 <div class="d"></div>
-This article studies motor third-part liability policies in France. I first explored the dataset with data visualization, then used the classic generalized Poisson linear model,  ridge regression, lasso regression, and gradient boosted model to make the claim number predictions and compare the error rates among different models at the end.
+This article studies motor third-part liability policies in France. I first explored the dataset with data visualization, then used the classic generalized Poisson linear model,  ridge regression, lasso regression, and gradient boosted model to make the claim number predictions. I compared the error rates among different models at the end.
 <br>
 <br>
 <br>
