@@ -6,6 +6,7 @@ layout: default
 <div class="d"><i>Jan. 11, 2021</i></div>
 # [_Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
 <div class="d"></div>
+This article studies motor third-part liability policies in France. I first explored the dataset with data visualization, then use classic generalized Poisson linear model,  ridge regression, lasso regression, and gradient boosted model to make the claim number prediction and compare the error rates among different models at the end.
 <br>
 <br>
 <br>
@@ -110,7 +111,7 @@ This article uses deep learning to predict the numbers in the images from the MN
 <div class="d"><i>Feb. 3, 2020</i></div>
 # [_Titanic Survival Prediction_](./Titanic.html)   
 <div class="d"></div>
-This is the legendary Titanic ML competition on Kaggle. I use ridge regression, lasso regression, random forest and gradient boosted models to make the survival prediction and compare the error rates among different models. <br>
+This is the legendary Titanic ML competition on Kaggle. I use ridge regression, lasso regression, random forest and gradient boosted model to make the survival prediction and compare the error rates among different models. <br>
 <br>
 <br>
 <br>
