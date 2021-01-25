@@ -3,7 +3,18 @@ layout: default
 ---
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
-<div class="d"><i>Jan. 11, 2021</i></div>
+<div class="d"><i>Jan. 25, 2021</i></div>
+# [_AIG Interview Slides_](./AIG_Interview_Present.html)   
+<div class="d"></div>
+This article contains the slides I prepared for the AIG interview.
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr>
+<br>
+<div class="d"><i>Jan. 25, 2021</i></div>
 # [_Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
 <div class="d"></div>
 This article studies motor third-part liability policies in France. I first explored the dataset with data visualization, then used the classic generalized Poisson linear model,  ridge regression, lasso regression, and gradient boosted model to make the claim number predictions. I compared the error rates among different models at the end.
