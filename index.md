@@ -15,7 +15,7 @@ This article contains the slides I prepared for the AIG interview.
 <hr>
 <br>
 <div class="d"><i>Jan. 25, 2021</i></div>
-# [_Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
+# [_Motor Third-Party Liability Claims Analysis and Prediction_](./claims.html)   
 <div class="d"></div>
 This article studies motor third-part liability policies in France. I first explored the dataset with data visualization, then used the classic generalized Poisson linear model,  ridge regression, lasso regression, and gradient boosted model to make the claim number predictions. I compared the error rates among different models at the end.
 <br>
