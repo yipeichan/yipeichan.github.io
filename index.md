@@ -4,9 +4,9 @@ layout: default
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Jan. 25, 2021</i></div>
-# [_AIG Interview Slides_](./AIG_Interview_Present.pdf)   
+# [_Claims Analysis and Prediction Slides_](./Claims_Present.pdf)   
 <div class="d"></div>
-This article contains the slides I prepared for the AIG interview.
+This article contains the summary slides for the Motor Third-Party Liability Claims Analysis and Prediction report.
 <br>
 <br>
 <br>
