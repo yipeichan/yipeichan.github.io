@@ -6,7 +6,7 @@ layout: default
 <div class="d"><i>Jan. 25, 2021</i></div>
 # [_Claims Analysis and Prediction Slides_](./Claims_Present.pdf)   
 <div class="d"></div>
-This article contains the summary slides for the Motor Third-Party Liability Claims Analysis and Prediction report.
+This article contains the summary slides for the Motor Third-Party Liability Claims Analysis and Prediction project.
 <br>
 <br>
 <br>
