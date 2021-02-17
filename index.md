@@ -4,7 +4,7 @@ layout: default
 <div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Feb. 5, 2021</i></div>
-# [_Allied World Presentation: Claims Analysis and Prediction_](./Claims_Present.pdf)   
+# [_Presentation: Claims Analysis and Prediction_](./Claims_Present.pdf)   
 <div class="d"></div>
 This article contains the summary slides for the Motor Third-Party Liability Claims Analysis and Prediction project.
 <br>
