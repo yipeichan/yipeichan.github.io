@@ -86,7 +86,11 @@ else:
 
 ```
 
+<br>
+
 ## Complete Code
+The complete code for this progam is as following.
+
 ```python
 ######for Tracking Products of China Life Insurance Group  
 
@@ -183,6 +187,8 @@ else:
 	print("wrong input")
 
 ```
+
+<br>
 
 ## Program Instructions <br>
 <div class="f"><font color="black">
