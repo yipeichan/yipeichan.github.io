@@ -89,7 +89,7 @@ else:
 <br>
 
 ## Complete Code
-The complete code for this progam is as following.
+<font color="black">The complete code for this program is as following.</font>
 
 ```python
 ######for Tracking Products of China Life Insurance Group  
