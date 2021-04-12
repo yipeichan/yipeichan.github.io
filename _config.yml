@@ -1,6 +1,8 @@
 title: <p>    <br></p>
 logo: /assets/logo1.jpg
-description: <p class="b"><div class="e"><font color="#9ac293", font size="4.7"><b><i>Welcome to my homepage! </i></b></font></div><br><b><i><font size="4">Yi-Pei (Denise) Chan</font> has 2 years of Actuarial & Data Analysis experience in insurance, and currently obtained a master’s degree in Statistics from Columbia University. She is passionate about math, programming, and entrepreneurship.</p></i></b> 
+description: <p class="b"><div class="e"><font color="#9ac293", font size="4.7"><b><i>Welcome to my homepage! </i></b></font></div>
+<br>
+<b><i><font size="4">Yi-Pei (Denise) Chan</font> is a Risk Modeling Specialist within financial sector in NYC. She has 2+ years of Actuarial & Data Analysis experience in insurance, and is passionate about math, programming, and entrepreneurship.</p></i></b> 
 show_downloads: FALSE
 google_analytics: UA-123794012-1
 theme: jekyll-theme-minimal
