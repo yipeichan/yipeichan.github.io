@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Yi-Pei's Projects</i></b></font></font></div></div>
+<div class="d"><div class="e"><font color="#9ac293"><font size="5.2"><b><i> A Blog Sharing Denise's Projects</i></b></font></font></div></div>
 <br>
 <div class="d"><i>Feb. 5, 2021</i></div>
 # [_Presentation: Claims Analysis and Prediction_](./Claims_Present.pdf)   
